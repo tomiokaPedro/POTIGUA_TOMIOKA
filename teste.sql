@@ -1,4 +1,46 @@
+-- exercicio 1
 
+INSERT INTO L13_PLEITOCANDIDATURA
+  (CODPLEITO, REGCAND
+  )
+  ( SELECT pleito.codpleito, 
+       candidatura.reg 
+        FROM   candidatura 
+       inner join cargo 
+               ON candidatura.codcargo = cargo.codcargo 
+       inner join estado 
+               ON cargo.siglaestado = estado.sigla 
+       inner join pleito 
+               ON estado.sigla = pleito.siglaestado
+  );
+
+
+  -- exercicio 2
+
+
+INSERT INTO l14_computavotos 
+            (nrosessao, 
+             nrozona, 
+             codpleito, 
+             regcand, 
+             total) 
+(SELECT sessao.nrosessao, 
+        sessao.nrozona, 
+        pleitocandidatura.codpleito, 
+        pleitocandidatura.regcand, 
+        Trunc(dbms_random.Value(1, 1000)) 
+ FROM   sessao 
+        inner join zona 
+                ON sessao.nrozona = zona.nrozona, 
+        pleitocandidatura 
+        inner join pleito 
+                ON pleitocandidatura.codpleito = pleito.codpleito 
+ WHERE  zona.siglaestado = pleito.siglaestado) 
+
+
+ -- exercicio 3
+
+--inserindo em pesquisa
 DECLARE 
     v_data DATE; 
 BEGIN 
@@ -18,7 +60,7 @@ BEGIN
 END; 
   --
   
-  SELECT * FROM l12_pesquisa;
+--inserindo em l15_computaintencaovotos
   
   --
 BEGIN 
@@ -33,12 +75,12 @@ BEGIN
     END LOOP; 
 END; 
 
-SELECT * FROM COMPUTAINTENCAOVOTOS;
+SELECT * FROM COMPUTAINTENCAOVOTOS
 
 -- Exercicio 2.1
 
 SELECT distinct esfera, sum(NROdecadeiras) over (partition by esfera) as "Total de Cadeiras"  FROM CARGO 
 
---
+
 
 
