@@ -6,12 +6,16 @@ BEGIN
     (SELECT
       pleito.codpleito,
       candidatura.reg
-    FROM pleito,
-         candidatura
-         INNER JOIN cargo
-           ON cargo.codcargo = candidatura.codcargo
-    WHERE cargo.cidade IS NULL
-    AND cargo.cidade IS NULL);
+    FROM candidatura
+    INNER JOIN cargo
+      ON candidatura.codcargo = cargo.codcargo
+    INNER JOIN estado
+      ON cargo.siglaestado = estado.sigla
+    INNER JOIN cidade
+      ON cargo.nomecidade = cidade.nome
+    INNER JOIN pleito
+      ON estado.sigla = pleito.siglaestado
+      AND cidade.nome = pleito.nomecidade);
 
   INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
     (SELECT
