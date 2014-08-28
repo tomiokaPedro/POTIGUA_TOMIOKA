@@ -1,5 +1,6 @@
 -- exercicio 1
 
+
 BEGIN
 
   INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
@@ -15,7 +16,10 @@ BEGIN
       ON cargo.nomecidade = cidade.nome
     INNER JOIN pleito
       ON estado.sigla = pleito.siglaestado
-      AND cidade.nome = pleito.nomecidade);
+      AND cidade.nome = pleito.nomecidade
+    where 
+    candidatura.ano = pleito.ANO
+      );
 
   INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
     (SELECT
@@ -26,7 +30,9 @@ BEGIN
          INNER JOIN cargo
            ON cargo.codcargo = candidatura.codcargo
     WHERE cargo.nomecidade IS NULL
-    AND cargo.siglaestado IS NULL);
+    AND cargo.siglaestado IS NULL
+    and   candidatura.ano = pleito.ANO
+    );
 
   INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
     (SELECT
@@ -38,7 +44,10 @@ BEGIN
            ON cargo.codcargo = candidatura.codcargo
     WHERE cargo.nomecidade IS NULL
     AND cargo.siglaestado IS NOT NULL
-    AND pleito.siglaestado = cargo.siglaestado);
+    AND pleito.siglaestado = cargo.siglaestado
+    and 
+      candidatura.ano = pleito.ANO
+   );
 
 
 END;
