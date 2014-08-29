@@ -1,56 +1,62 @@
 -- exercicio 1
 
+BEGIN 
+    INSERT INTO l13_pleitocandidatura 
+                (codpleito, 
+                 regcand) 
+    (SELECT pleito.codpleito, 
+            candidatura.reg 
+     FROM   candidatura 
+            inner join cargo 
+                    ON candidatura.codcargo = cargo.codcargo 
+            inner join estado 
+                    ON cargo.siglaestado = estado.sigla 
+            inner join cidade 
+                    ON cargo.nomecidade = cidade.nome 
+            inner join pleito 
+                    ON estado.sigla = pleito.siglaestado 
+                       AND cidade.nome = pleito.nomecidade 
+     WHERE  candidatura.ano = pleito.ano 
+            AND NOT EXISTS (SELECT 1 
+                            FROM   candidatura c2 
+                            WHERE  c2.nrovice = candidatura.nrocand 
+                                   AND c2.ano = candidatura.ano)); 
 
-BEGIN
+    INSERT INTO l13_pleitocandidatura 
+                (codpleito, 
+                 regcand) 
+    (SELECT pleito.codpleito, 
+            candidatura.reg 
+     FROM   pleito, 
+            candidatura 
+            inner join cargo 
+                    ON cargo.codcargo = candidatura.codcargo 
+     WHERE  cargo.nomecidade IS NULL 
+            AND cargo.siglaestado IS NULL 
+            AND candidatura.ano = pleito.ano 
+            AND NOT EXISTS (SELECT 1 
+                            FROM   candidatura c2 
+                            WHERE  c2.nrovice = candidatura.nrocand 
+                                   AND c2.ano = candidatura.ano)); 
 
-  INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
-    (SELECT
-      pleito.codpleito,
-      candidatura.reg
-    FROM candidatura
-    INNER JOIN cargo
-      ON candidatura.codcargo = cargo.codcargo
-    INNER JOIN estado
-      ON cargo.siglaestado = estado.sigla
-    INNER JOIN cidade
-      ON cargo.nomecidade = cidade.nome
-    INNER JOIN pleito
-      ON estado.sigla = pleito.siglaestado
-      AND cidade.nome = pleito.nomecidade
-    where 
-    candidatura.ano = pleito.ANO
-      );
-
-  INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
-    (SELECT
-      pleito.codpleito,
-      candidatura.reg
-    FROM pleito,
-         candidatura
-         INNER JOIN cargo
-           ON cargo.codcargo = candidatura.codcargo
-    WHERE cargo.nomecidade IS NULL
-    AND cargo.siglaestado IS NULL
-    and   candidatura.ano = pleito.ANO
-    );
-
-  INSERT INTO L13_PLEITOCANDIDATURA (CODPLEITO, REGCAND)
-    (SELECT
-      pleito.codpleito,
-      candidatura.reg
-    FROM pleito,
-         candidatura
-         INNER JOIN cargo
-           ON cargo.codcargo = candidatura.codcargo
-    WHERE cargo.nomecidade IS NULL
-    AND cargo.siglaestado IS NOT NULL
-    AND pleito.siglaestado = cargo.siglaestado
-    and 
-      candidatura.ano = pleito.ANO
-   );
-
-
-END;
+    INSERT INTO l13_pleitocandidatura 
+                (codpleito, 
+                 regcand) 
+    (SELECT pleito.codpleito, 
+            candidatura.reg 
+     FROM   pleito, 
+            candidatura 
+            inner join cargo 
+                    ON cargo.codcargo = candidatura.codcargo 
+     WHERE  cargo.nomecidade IS NULL 
+            AND cargo.siglaestado IS NOT NULL 
+            AND pleito.siglaestado = cargo.siglaestado 
+            AND candidatura.ano = pleito.ano 
+            AND NOT EXISTS (SELECT 1 
+                            FROM   candidatura c2 
+                            WHERE  c2.nrovice = candidatura.nrocand 
+                                   AND c2.ano = candidatura.ano)); 
+END; 
 
   -- exercicio 2
 
