@@ -1,6 +1,6 @@
 CREATE MATERIALIZED VIEW vw_sessoes
 (SESSAONRO, NROZONA, NSERIAL, NOMECIDADE, ESTADO, NOME) 
-REFRESH FAST 
+REFRESH FAST ON COMMIT
 as select
 sessao.SESSAONRO, zona.NROZONA, sessao.NSERIAL as urna, bairro.NOMECIDADE, urna.ESTADO, bairro.NOME
 from l06_sessao sessao inner join l03_zona zona on sessao.nrozona = zona.nrozona
