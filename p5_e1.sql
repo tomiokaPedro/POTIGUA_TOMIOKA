@@ -2,18 +2,28 @@ create or replace procedure "SP_AUDITORIA_CONTAS"
 is
 v_total number;
 v_numero_sorteado number;
-v_count :=0  number;
+v_count   number;
+c_ano_atual number;
 begin
-	select count(1) into v_total from candidatura inner join  candidato  on candidatura.nrocand = candidato.nrocand  where
-	candidato.tipo = 'politico'  and candidatura.ano < to_number(to_char(sysdate, 'YYYY'));
+    select to_number(to_char(sysdate, 'YYYY')) into c_ano_atual from dual;
 
-	SELECT DBMS_RANDOM.VALUE(1,v_total) INTO v_numero_sorteado FROM DUAL;
+    select count(1) into v_total from candidatura inner join  candidato  on candidatura.nrocand = candidato.nrocand  where
+    candidato.tipo = 'politico'  and candidatura.ano < c_ano_atual;
 
-	for c_candidatos in (select candidato.* from candidatura inner join  candidato  on candidatura.nrocand = candidato.nrocand  where
-	candidato.tipo = 'politico'  and candidatura.ano < to_number(to_char(sysdate, 'YYYY')) order by candidato.cpf)
-	LOOP
-		v_count = v_count + 1;
-	END LOOP;
+    SELECT DBMS_RANDOM.VALUE(1,v_total) INTO v_numero_sorteado FROM DUAL;
+
+    for c_candidatos in (select * from candidato where tipo = 'politico'  order by cpf)
+    LOOP
+        IF v_count = v_total
+        THEN
+            exit;
+        END IF;
+
+
+
+        v_count := v_count + 1;
+    END LOOP;
 
 end;
 /   
+​
