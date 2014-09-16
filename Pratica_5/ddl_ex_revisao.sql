@@ -36,8 +36,8 @@ CREATE TABLE Receita (
   numero NUMBER   NOT NULL ,
   Medico_crm NUMBER   NOT NULL ,
   data_receita DATE    ,
-  tipo NUMBER    ,
-  controle NUMBER      ,
+  tipo varchar2(30)    ,
+  controle varchar2(3)     ,
 PRIMARY KEY(numero),
   FOREIGN KEY(Medico_crm)
     REFERENCES Medico(crm));
@@ -62,3 +62,4 @@ CREATE INDEX IFK_Rel_04 ON Receita_has_Remedio (Receita_numero);
 CREATE INDEX IFK_Rel_05 ON Receita_has_Remedio (Remedio_codigo);
 
 
+alter table RECEITA add constraint ck_tipo check(controle in ('sim', 'nao')) ENABLE
