@@ -63,3 +63,10 @@ CREATE INDEX IFK_Rel_05 ON Receita_has_Remedio (Remedio_codigo);
 
 
 alter table RECEITA add constraint ck_tipo check(controle in ('sim', 'nao')) ENABLE
+
+CREATE SEQUENCE SQ_NUMERO_RECEITA START WITH 1 NOCACHE ORDER ;
+
+CREATE  TRIGGER BI_NUMERO_RECEITA BEFORE
+  INSERT ON receita FOR EACH ROW WHEN (NEW.numero IS NULL) BEGIN :NEW.numero := SQ_NUMERO_RECEITA.nextval;
+END;
+/
