@@ -1,0 +1,994 @@
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 18
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 20
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 6
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 25
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+__Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+__Candidato: CPF  - 26 Burro, 40 Povo PL   
+Candidato: CPF  - 26 Burro, 40 Povo PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 5
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 16
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 1
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 19
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+Candidato: CPF  - 20 Jana, 30 Janinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 11
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 3
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 15
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 5
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 13
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 15
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 2
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 12
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 4
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 20
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 1
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 1
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 1
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 15
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 24
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+__Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 4
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 15
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 3
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 23
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 18
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 24
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 2
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 20
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 5
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 16
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 23
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 12
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 17
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 23
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Candidato: CPF  - 24 Peron, 20 Peroca PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 4
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Candidato: CPF  - 5 Ana, 40 Aninha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 9
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 18
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 12
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 15
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Candidato: CPF  - 16 Guido, 30 Mantega PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 12
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 8
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+Candidato: CPF  - 9 Jose, 60 Ze PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 21
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+Candidato: CPF  - 22 King, 20 Kong PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 7
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 6
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 5
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 12
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 19
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+Candidato: CPF  - 20 Jana, 30 Janinha PC   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 24
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+__Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 25
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+__Candidato: CPF  - 12 Genuino, 35 Falsario PT   
+__Candidato: CPF  - 13 Alceu, 25 Alceuzinho PS   
+__Candidato: CPF  - 14 Fabio, 60 Fabinho PS   
+__Candidato: CPF  - 15 Fernando, 40 Fernandinho PS   
+__Candidato: CPF  - 16 Guido, 30 Mantega PS   
+__Candidato: CPF  - 17 Bispo, 25 Aleluia PC   
+__Candidato: CPF  - 18 Antonio, 35 Toninho PC   
+__Candidato: CPF  - 19 Laura, 25 Laurinha PC   
+__Candidato: CPF  - 20 Jana, 30 Janinha PC   
+__Candidato: CPF  - 21 Tarzan, 40 Rei da Selva PC   
+__Candidato: CPF  - 22 King, 20 Kong PC   
+__Candidato: CPF  - 23 Eva, 45 Evita PL   
+__Candidato: CPF  - 24 Peron, 20 Peroca PL   
+__Candidato: CPF  - 25 Shreck, 20 I am an ogre! PL   
+__Candidato: CPF  - 26 Burro, 40 Povo PL   
+Candidato: CPF  - 26 Burro, 40 Povo PL   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 8
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+Candidato: CPF  - 9 Jose, 60 Ze PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 10
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+__Candidato: CPF  - 8 Joana, 55 Joaninha PC   
+__Candidato: CPF  - 9 Jose, 60 Ze PT   
+__Candidato: CPF  - 10 Dirceu, 60 Dirceuzinho PT   
+__Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+Candidato: CPF  - 11 Valerio, 40 Valerioduto PT   
+Fim da execucao
+Ano Atual: 2001
+Numero de candidatos: 26
+Numero sorteado: 18
+__Candidato: CPF  - 1 Adao, 30 Adaozinho PT   
+__Candidato: CPF  - 2 Joao, 25 Joaozinho PT   
+__Candidato: CPF  - 3 Marco, 20 Marquinho PS   
+__Candidato: CPF  - 4 Paulo, 18 Paulinho PS   
+__Candidato: CPF  - 5 Ana, 40 Aninha PL   
+__Candidato: CPF  - 6 Flavia, 45 Flavinha PL   
+__Candidato: CPF  - 7 Carla, 50 Carlinha PC   
+
