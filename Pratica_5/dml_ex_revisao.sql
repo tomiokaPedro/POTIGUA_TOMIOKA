@@ -177,5 +177,25 @@ SELECT
        ON
     RECEITA.MEDICO_CRM = MEDICO.CRM;
     
+CREATE OR REPLACE VIEW vw_remedios_receita (NUMERO, MEDICO_CRM, DATA_RECEITA, TIPO, CONTROLE, NOME, PRAZO, DOSAGEM)
+AS
+   SELECT
+      receita.NUMERO,
+      receita.MEDICO_CRM,
+      receita.DATA_RECEITA,
+      receita.TIPO,
+      receita.CONTROLE,
+      remedio.NOME,
+      receita_has_remedio.PRAZO,
+      receita_has_remedio.DOSAGEM
+       FROM
+      receita
+    INNER JOIN receita_has_remedio
+         ON
+      receita_has_remedio.RECEITA_NUMERO = receita.NUMERO
+    INNER JOIN remedio
+         ON
+      receita_has_remedio.REMEDIO_CODIGO = remedio.CODIGO; 
+
 
     -- end view
