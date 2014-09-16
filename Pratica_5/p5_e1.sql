@@ -6,7 +6,8 @@ DECLARE
   c_ano_atual       NUMBER;
 BEGIN
   v_count := 0;
-   SELECT 2001 INTO c_ano_atual FROM dual;
+   SELECT to_number(to_char(sysdate, 'yyyy'))
+   INTO c_ano_atual FROM dual;
    SELECT COUNT (*) INTO v_total FROM candidato WHERE tipo = 'politico';
    SELECT
       TRUNC(DBMS_RANDOM.VALUE(1,v_total),0)
