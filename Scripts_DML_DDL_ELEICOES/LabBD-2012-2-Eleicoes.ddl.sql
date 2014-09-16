@@ -14,6 +14,9 @@ DROP TABLE L04_BAIRRO;
 DROP TABLE L03_ZONA;
 DROP TABLE L02_CIDADE;
 DROP TABLE L01_ESTADO;
+
+drop sequence SQ_NROZONA; drop sequence SQ_SESSAONRO; drop sequence SQ_CODPLEITO; drop sequence SQ_NRO; drop sequence SQ_COD; drop sequence SQ_REG; drop sequence SQ_REGPESQUISA;
+
 */
 
 -- a integridade dos ciclos L02-L03-L04, L02-L05-L07, e L07-L11-L14 deve ser garantida com logica;
