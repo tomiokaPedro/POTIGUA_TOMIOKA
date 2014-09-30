@@ -13,7 +13,7 @@ BEGIN
   INTO v_flag
   FROM USER_IND_COLUMNS
   WHERE TABLE_NAME = P_TABELA;
-  IF v_flag        > 0 THEN
+  IF v_flag        = 0 THEN
     RAISE E_TABELA_NAO_EXISTE;
   END IF;
   SELECT COUNT(1)
