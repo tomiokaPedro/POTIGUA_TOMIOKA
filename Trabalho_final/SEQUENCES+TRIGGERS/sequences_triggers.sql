@@ -1,3 +1,64 @@
+/*
+
+drop sequence cod_gol_seq;
+/
+
+drop sequence cod_cartao_seq;
+/
+
+drop sequence cod_jogador_seq;
+/
+
+drop sequence cod_equipe_seq;
+/
+
+drop sequence cod_jogo_seq;
+/
+
+drop sequence numero_turno_seq;
+/
+
+drop sequence cod_estadio_seq;
+/
+
+drop sequence cod_cidade_seq;
+/
+
+drop sequence cod_estado_seq;
+/
+
+drop trigger gol_seq_trigger;
+/
+
+drop trigger cartao_seq_trigger;
+/
+
+drop trigger jogador_seq_trigger;
+/
+
+drop trigger equipe_seq_trigger;
+/
+
+drop trigger jogo_seq_trigger;
+/
+
+drop trigger turno_seq_trigger;
+/
+
+drop trigger estadio_seq_trigger;
+/
+
+drop trigger cidade_seq_trigger;
+/
+
+drop trigger estado_seq_trigger;
+/
+
+
+
+*/
+
+
 CREATE SEQUENCE cod_gol_seq
  START WITH     1
  INCREMENT BY   1
