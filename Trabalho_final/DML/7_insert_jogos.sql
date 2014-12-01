@@ -4,7 +4,7 @@ Jogos
 
 */
 
-
+BEGIN
 
 
 INSERT INTO BDE_FINAL.JOGO (COD_EQUIPE_MANDANTE, COD_EQUIPE_VISITANTE, NUMERO_TURNO, COD_ESTADIO, DATA, RODADA  ) select (select cod_equipe from equipe where nome_equipe = 'Internacional' ),  (select cod_equipe from equipe where nome_equipe =  'Vitória'), 1, ( select cod_estadio from estadio where nome_estadio ='Beira Rio'), to_date('19/abr 18:30', 'dd/mon hh24:mi'),1 from dual;
@@ -388,3 +388,13 @@ INSERT INTO BDE_FINAL.JOGO (COD_EQUIPE_MANDANTE, COD_EQUIPE_VISITANTE, NUMERO_TU
 INSERT INTO BDE_FINAL.JOGO (COD_EQUIPE_MANDANTE, COD_EQUIPE_VISITANTE, NUMERO_TURNO, COD_ESTADIO, DATA, RODADA  ) select (select cod_equipe from equipe where nome_equipe = 'Grêmio' ),  (select cod_equipe from equipe where nome_equipe =  'Flamengo'), 2, ( select cod_estadio from estadio where nome_estadio ='Arena do Grêmio'), to_date('07/dez 17:00', 'dd/mon hh24:mi'), 38 from dual;
 INSERT INTO BDE_FINAL.JOGO (COD_EQUIPE_MANDANTE, COD_EQUIPE_VISITANTE, NUMERO_TURNO, COD_ESTADIO, DATA, RODADA  ) select (select cod_equipe from equipe where nome_equipe = 'Corinthians' ),  (select cod_equipe from equipe where nome_equipe =  'Criciúma'), 2, ( select cod_estadio from estadio where nome_estadio = 'Arena Corinthians'), to_date('07/dez 17:00', 'dd/mon hh24:mi'), 38 from dual;
 
+
+COMMIT;
+
+EXCEPTION
+WHEN OTHERS THEN
+  BEGIN 
+    dbms_output.put_line ('COD_EQUIPE_MANDANTE OU COD_EQUIPE_VISITANTE OU COD_ESTADO OU NUMERO_TURNO NÃO ENCONTRADO');
+    ROLLBACK;
+    END;
+END;

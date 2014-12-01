@@ -3,7 +3,7 @@
 Cidade
 
 */
-
+BEGIN
 
 insert into cidade(nome_cidade,cod_estado)  select 'Araraquara', cod_estado from estado where nome = 'São Paulo';
 insert into cidade(nome_cidade,cod_estado)  select 'Barueri', cod_estado from estado where nome = 'São Paulo';
@@ -37,3 +37,13 @@ insert into cidade(nome_cidade,cod_estado)  select 'São Luis', cod_estado from 
 insert into cidade(nome_cidade,cod_estado)  select 'São Paulo', cod_estado from estado where nome = 'São Paulo';
 insert into cidade(nome_cidade,cod_estado)  select 'Uberlândia', cod_estado from estado where nome = 'São Paulo';
 insert into cidade(nome_cidade,cod_estado)  select 'Volta Redonda', cod_estado from estado where nome = 'Rio de Janeiro';
+
+COMMIT;
+
+EXCEPTION
+WHEN OTHERS THEN
+  BEGIN 
+    dbms_output.put_line ('O Estado não foi encontrado');
+    ROLLBACK;
+    END;
+END;

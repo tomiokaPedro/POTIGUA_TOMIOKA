@@ -3,6 +3,7 @@
 Estádio
 
 */
+BEGIN
 
 insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, '1º de Maio', 10000 from cidade where nome_cidade = 'São Bernardo';
 insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, 'Alfredo Jaconi', 10000 from cidade where nome_cidade = 'Caxias do Sul';
@@ -48,3 +49,13 @@ insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, 'S�
 insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, 'Serra Dourada', 10000 from cidade where nome_cidade = 'Goiânia';
 insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, 'Vila Belmiro', 10000 from cidade where nome_cidade = 'Santos';
 insert into estadio(cod_cidade, nome_estadio, capacidade) select cod_cidade, 'Willie Davids', 10000 from cidade where nome_cidade = 'Maringá';
+
+COMMIT;
+
+EXCEPTION
+WHEN OTHERS THEN
+  BEGIN 
+    dbms_output.put_line ('COD_cidade não encontrado');
+    ROLLBACK;
+    END;
+END;

@@ -4,7 +4,7 @@ Jogadores
 
 */
 
-
+BEGIN
 
 
 insert into jogador(nome_jogador, cod_equipe) select 'Ricardo Goulart', equipe.cod_equipe from equipe where equipe.nome_equipe = 'Cruzeiro';
@@ -127,3 +127,14 @@ insert into jogador(nome_jogador, cod_equipe) select 'Rodriguinho', equipe.cod_e
 insert into jogador(nome_jogador, cod_equipe) select 'Bruno Mineiro', equipe.cod_equipe from equipe where equipe.nome_equipe = 'Goiás';
 insert into jogador(nome_jogador, cod_equipe) select 'Pablo Mouche', equipe.cod_equipe from equipe where equipe.nome_equipe = 'Palmeiras';
 insert into jogador(nome_jogador, cod_equipe) select 'Anderson Talisca', equipe.cod_equipe from equipe where equipe.nome_equipe = 'Bahia';
+
+
+COMMIT;
+
+EXCEPTION
+WHEN OTHERS THEN
+  BEGIN 
+    dbms_output.put_line ('COD_EQUIPE não encontrado');
+    ROLLBACK;
+    END;
+END;
