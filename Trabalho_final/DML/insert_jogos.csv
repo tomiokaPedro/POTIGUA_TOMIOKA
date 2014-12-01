@@ -1,0 +1,380 @@
+'Internacional';'Vitória';1;'Beira Rio';'19/abr 18:30';1;-;1;x;0
+'Fluminense';'Figueirense';1;'Maracanã';'19/abr 18:30';1;-;3;x;0
+'Chapecoense';'Coritiba';1;'Arena Condá';'19/abr 21:00';1;-;0;x;0
+'Atlético-MG';'Corinthians';1;'João Havelange';'20/abr 16:00';1;-;0;x;0
+'São Paulo';'Botafogo';1;'Morumbi';'20/abr 16:00';1;-;3;x;0
+'Bahia';'Cruzeiro';1;'Fonte Nova';'20/abr 16:00';1;-;1;x;2
+'Atlético-PR';'Grêmio';1;'Orlando Scarpelli';'20/abr 16:00';1;-;1;x;0
+'Criciúma';'Palmeiras';1;'Heriberto Hülse';'20/abr 18:30';1;-;1;x;2
+'Flamengo';'Goiás';1;'Mané Garrincha';'20/abr 18:30';1;-;0;x;0
+'Santos';'Sport';1;'Vila Belmiro';'20/abr 18:30';1;-;1;x;1
+'Coritiba';'Santos';1;'Couto Pereira';'26/abr 18:30';2;-;0;x;0
+'Palmeiras';'Fluminense';1;'Pacaembu';'26/abr 21:00';2;-;0;x;1
+'Corinthians';'Flamengo';1;'Pacaembu';'27/abr 16:00';2;-;2;x;0
+'Vitória';'Atlético-PR';1;'Pituaçu';'27/abr 16:00';2;-;2;x;2
+'Botafogo';'Internacional';1;'Maracanã';'27/abr 16:00';2;-;2;x;2
+'Cruzeiro';'São Paulo';1;'João Havelange';'27/abr 16:00';2;-;1;x;1
+'Goiás';'Criciúma';1;'Juscelino Kubitschek';'27/abr 18:30';2;-;1;x;0
+'Sport';'Chapecoense';1;'Ilha do Retiro';'27/abr 18:30';2;-;2;x;1
+'Figueirense';'Bahia';1;'Arena Barueri';'27/abr 18:30';2;-;0;x;2
+'Grêmio';'Atlético-MG';1;'Arena do Grêmio';'27/abr 18:30';2;-;2;x;1
+'São Paulo';'Coritiba';1;'Pacaembu';'03/mai 18:30';3;-;2;x;2
+'Atlético-PR';'Cruzeiro';1;'Mané Garrincha';'03/mai 18:30';3;-;2;x;3
+'Santos';'Grêmio';1;'Vila Belmiro';'03/mai 18:30';3;-;0;x;0
+'Fluminense';'Vitória';1;'Maracanã';'03/mai 21:00';3;-;1;x;2
+'Flamengo';'Palmeiras';1;'Maracanã';'04/mai 16:00';3;-;4;x;2
+'Criciúma';'Figueirense';1;'Heriberto Hülse';'04/mai 16:00';3;-;1;x;0
+'Bahia';'Botafogo';1;'Fonte Nova';'04/mai 16:00';3;-;1;x;0
+'Internacional';'Sport';1;'Beira Rio';'04/mai 16:00';3;-;2;x;1
+'Chapecoense';'Corinthians';1;'Arena Condá';'04/mai 18:30';3;-;0;x;1
+'Atlético-MG';'Goiás';1;'Independência';'04/mai 18:30';3;-;0;x;1
+'Palmeiras';'Goiás';1;'Pacaembu';'10/mai 18:30';4;-;2;x;0
+'Internacional';'Atlético-PR';1;'Beira Rio';'10/mai 18:30';4;-;2;x;1
+'Botafogo';'Criciúma';1;'Maracanã';'10/mai 21:00';4;-;6;x;0
+'Atlético-MG';'Cruzeiro';1;'Independência';'11/mai 16:00';4;-;2;x;1
+'Fluminense';'Flamengo';1;'Maracanã';'11/mai 16:00';4;-;2;x;0
+'Chapecoense';'Grêmio';1;'Arena Condá';'11/mai 16:00';4;-;1;x;2
+'São Paulo';'Corinthians';1;'Arena Barueri';'11/mai 16:00';4;-;1;x;1
+'Bahia';'Vitória';1;'Fonte Nova';'11/mai 18:30';4;-;1;x;1
+'Figueirense';'Santos';1;'Estádio do Café';'11/mai 18:30';4;-;0;x;2
+'Coritiba';'Sport';1;'Couto Pereira';'11/mai 18:30';4;-;0;x;1
+'Goiás';'Botafogo';1;'Mário Helênio';'14/mai 22:00';5;-;2;x;0
+'Cruzeiro';'Coritiba';1;'Mineirão';'17/mai 18:30';5;-;3;x;2
+'Corinthians';'Figueirense';1;'Arena Corinthians';'18/mai 16:00';5;-;0;x;1
+'Atlético-PR';'Chapecoense';1;'Willie Davids';'18/mai 16:00';5;-;1;x;1
+'Flamengo';'São Paulo';1;'Maracanã';'18/mai 16:00';5;-;0;x;2
+'Grêmio';'Fluminense';1;'Arena do Grêmio';'18/mai 16:00';5;-;1;x;0
+'Santos';'Atlético-MG';1;'Arena Pantanal';'18/mai 18:30';5;-;1;x;2
+'Criciúma';'Internacional';1;'Heriberto Hülse';'18/mai 18:30';5;-;0;x;0
+'Vitória';'Palmeiras';1;'Pituaçu';'18/mai 18:30';5;-;0;x;1
+'Sport';'Bahia';1;'Ilha do Retiro';'04/jun 21:00';5;-;1;x;0
+'Coritiba';'Internacional';1;'Couto Pereira';'21/mai 19:30';6;-;1;x;1
+'Flamengo';'Bahia';1;'Moacyrzão';'21/mai 19:30';6;-;1;x;1
+'Cruzeiro';'Sport';1;'Mineirão';'21/mai 21:00';6;-;2;x;0
+'Criciúma';'Chapecoense';1;'Heriberto Hülse';'21/mai 21:00';6;-;1;x;0
+'Corinthians';'Atlético-PR';1;'Canindé';'21/mai 22:00';6;-;1;x;1
+'Grêmio';'Botafogo';1;'Alfredo Jaconi';'21/mai 22:00';6;-;2;x;1
+'Fluminense';'São Paulo';1;'Maracanã';'21/mai 22:00';6;-;5;x;2
+'Palmeiras';'Figueirense';1;'Fonte Luminosa';'22/mai 19:30';6;-;1;x;0
+'Goiás';'Santos';1;'Serra Dourada';'22/mai 19:30';6;-;2;x;2
+'Vitória';'Atlético-MG';1;'Jóia da Princesa';'22/mai 21:00';6;-;2;x;3
+'Bahia';'Fluminense';1;'Arena Barueri';'24/mai 18:30';7;-;0;x;1
+'São Paulo';'Grêmio';1;'Morumbi';'24/mai 21:00';7;-;1;x;0
+'Figueirense';'Goiás';1;'Orlando Scarpelli';'25/mai 16:00';7;-;0;x;1
+'Santos';'Flamengo';1;'Morumbi';'25/mai 16:00';7;-;0;x;0
+'Sport';'Corinthians';1;'Ilha do Retiro';'25/mai 16:00';7;-;1;x;4
+'Atlético-PR';'Coritiba';1;'Willie Davids';'25/mai 16:00';7;-;2;x;0
+'Chapecoense';'Palmeiras';1;'Arena Condá';'25/mai 18:30';7;-;2;x;0
+'Botafogo';'Vitória';1;'Moacyrzão';'25/mai 18:30';7;-;1;x;1
+'Atlético-MG';'Criciúma';1;'João Lamego';'25/mai 18:30';7;-;0;x;0
+'Internacional';'Cruzeiro';1;'Centenário';'25/mai 18:30';7;-;1;x;3
+'Sport';'Grêmio';1;'Ilha do Retiro';'28/mai 19:30';8;-;0;x;0
+'Palmeiras';'Botafogo';1;'Paulo Constantino';'28/mai 19:30';8;-;0;x;2
+'Criciúma';'Coritiba';1;'Heriberto Hülse';'28/mai 19:30';8;-;1;x;0
+'Internacional';'Chapecoense';1;'Centenário';'28/mai 21:00';8;-;2;x;0
+'Goiás';'Vitória';1;'Serra Dourada';'28/mai 21:00';8;-;0;x;0
+'Corinthians';'Cruzeiro';1;'Canindé';'28/mai 22:00';8;-;1;x;0
+'Atlético-PR';'São Paulo';1;'João Havelange';'28/mai 22:00';8;-;2;x;2
+'Atlético-MG';'Fluminense';1;'João Lamego';'28/mai 22:00';8;-;2;x;0
+'Flamengo';'Figueirense';1;'Morumbi';'29/mai 19:30';8;-;1;x;1
+'Bahia';'Santos';1;'Jóia da Princesa';'29/mai 21:00';8;-;0;x;2
+'São Paulo';'Atlético-MG';1;'Morumbi';'31/mai 18:30';9;-;2;x;1
+'Coritiba';'Goiás';1;'Durival Britto';'31/mai 18:30';9;-;3;x;0
+'Vitória';'Sport';1;'Jóia da Princesa';'31/mai 21:00';9;-;0;x;1
+'Grêmio';'Palmeiras';1;'Alfredo Jaconi';'01/jun 16:00';9;-;0;x;0
+'Chapecoense';'Bahia';1;'Arena Condá';'01/jun 16:00';9;-;2;x;1
+'Cruzeiro';'Flamengo';1;'João Havelange';'01/jun 16:00';9;-;3;x;0
+'Figueirense';'Atlético-PR';1;'Orlando Scarpelli';'01/jun 18:30';9;-;1;x;3
+'Santos';'Criciúma';1;'1º de Maio';'01/jun 18:30';9;-;2;x;0
+'Fluminense';'Internacional';1;'Moacyrzão';'01/jun 18:30';9;-;1;x;1
+'Botafogo';'Corinthians';1;'Arena da Amazônia';'11/out 18:30';9;-;1;x;0
+'Coritiba';'Figueirense';1;'Couto Pereira';'16/jul 19:30';10;-;0;x;2
+'Sport';'Botafogo';1;'Ilha do Retiro';'16/jul 19:30';10;-;1;x;0
+'Grêmio';'Goiás';1;'Arena do Grêmio';'16/jul 19:30';10;-;0;x;0
+'Bahia';'São Paulo';1;'Fonte Nova';'16/jul 22:00';10;-;0;x;2
+'Flamengo';'Atlético-PR';1;'Moacyrzão';'16/jul 22:00';10;-;1;x;2
+'Criciúma';'Fluminense';1;'Heriberto Hülse';'16/jul 22:00';10;-;3;x;2
+'Corinthians';'Internacional';1;'Arena Corinthians';'17/jul 19:30';10;-;2;x;1
+'Santos';'Palmeiras';1;'Vila Belmiro';'17/jul 19:30';10;-;2;x;0
+'Cruzeiro';'Vitória';1;'Mineirão';'17/jul 21:00';10;-;3;x;1
+'Chapecoense';'Atlético-MG';1;'Arena Condá';'06/ago 21:00';10;-;1;x;1
+'São Paulo';'Chapecoense';1;'Morumbi';'19/jul 18:30';11;-;0;x;1
+'Atlético-MG';'Bahia';1;'Independência';'19/jul 18:30';11;-;1;x;1
+'Figueirense';'Grêmio';1;'Orlando Scarpelli';'19/jul 18:30';11;-;0;x;1
+'Botafogo';'Coritiba';1;'Raulino de Oliveira';'19/jul 21:00';11;-;1;x;0
+'Vitória';'Corinthians';1;'Barradão';'20/jul 16:00';11;-;0;x;0
+'Palmeiras';'Cruzeiro';1;'Pacaembu';'20/jul 16:00';11;-;1;x;2
+'Internacional';'Flamengo';1;'Beira Rio';'20/jul 16:00';11;-;4;x;0
+'Atlético-PR';'Criciúma';1;'Arena da Baixada';'20/jul 18:30';11;-;2;x;0
+'Goiás';'Sport';1;'Serra Dourada';'20/jul 18:30';11;-;0;x;0
+'Fluminense';'Santos';1;'Raulino de Oliveira';'20/jul 18:30';11;-;1;x;0
+'Santos';'Chapecoense';1;'Vila Belmiro';'26/jul 18:30';12;-;3;x;0
+'Cruzeiro';'Figueirense';1;'Mineirão';'26/jul 18:30';12;-;5;x;0
+'Criciúma';'Vitória';1;'Heriberto Hülse';'26/jul 18:30';12;-;1;x;3
+'Bahia';'Internacional';1;'Fonte Nova';'26/jul 21:00';12;-;0;x;1
+'Corinthians';'Palmeiras';1;'Arena Corinthians';'27/jul 16:00';12;-;2;x;0
+'Atlético-PR';'Fluminense';1;'Arena da Baixada';'27/jul 16:00';12;-;0;x;3
+'Goiás';'São Paulo';1;'Serra Dourada';'27/jul 16:00';12;-;2;x;1
+'Sport';'Atlético-MG';1;'Ilha do Retiro';'27/jul 16:00';12;-;2;x;1
+'Flamengo';'Botafogo';1;'Maracanã';'27/jul 18:30';12;-;1;x;0
+'Grêmio';'Coritiba';1;'Arena do Grêmio';'27/jul 18:30';12;-;2;x;3
+'São Paulo';'Criciúma';1;'Morumbi';'02/ago 18:30';13;-;1;x;1
+'Botafogo';'Cruzeiro';1;'Maracanã';'02/ago 18:30';13;-;1;x;1
+'Vitória';'Grêmio';1;'Barradão';'02/ago 21:00';13;-;2;x;1
+'Figueirense';'Sport';1;'Orlando Scarpelli';'03/ago 16:00';13;-;3;x;0
+'Coritiba';'Corinthians';1;'Couto Pereira';'03/ago 16:00';13;-;0;x;0
+'Palmeiras';'Bahia';1;'Pacaembu';'03/ago 16:00';13;-;1;x;1
+'Chapecoense';'Flamengo';1;'Arena Condá';'03/ago 16:00';13;-;1;x;0
+'Fluminense';'Goiás';1;'Maracanã';'03/ago 18:30';13;-;2;x;0
+'Atlético-MG';'Atlético-PR';1;'Independência';'03/ago 18:30';13;-;3;x;1
+'Internacional';'Santos';1;'Beira Rio';'03/ago 18:30';13;-;1;x;0
+'Bahia';'Goiás';1;'Fonte Nova';'09/ago 18:30';14;-;1;x;0
+'Criciúma';'Cruzeiro';1;'Heriberto Hülse';'09/ago 18:30';14;-;0;x;0
+'Fluminense';'Coritiba';1;'Maracanã';'09/ago 21:00';14;-;1;x;1
+'Internacional';'Grêmio';1;'Beira Rio';'10/ago 16:00';14;-;2;x;0
+'Santos';'Corinthians';1;'Vila Belmiro';'10/ago 16:00';14;-;0;x;1
+'Flamengo';'Sport';1;'Maracanã';'10/ago 16:00';14;-;1;x;0
+'Atlético-PR';'Botafogo';1;'Arena da Baixada';'10/ago 16:00';14;-;2;x;0
+'São Paulo';'Vitória';1;'Morumbi';'10/ago 18:30';14;-;3;x;1
+'Chapecoense';'Figueirense';1;'Arena Condá';'10/ago 18:30';14;-;0;x;1
+'Atlético-MG';'Palmeiras';1;'Independência';'10/ago 18:30';14;-;2;x;1
+'Goiás';'Internacional';1;'Serra Dourada';'16/ago 18:30';15;-;0;x;1
+'Corinthians';'Bahia';1;'Arena Corinthians';'16/ago 21:00';15;-;1;x;1
+'Grêmio';'Criciúma';1;'Arena do Grêmio';'17/ago 16:00';15;-;2;x;0
+'Cruzeiro';'Santos';1;'Mineirão';'17/ago 16:00';15;-;3;x;0
+'Palmeiras';'São Paulo';1;'Pacaembu';'17/ago 16:00';15;-;1;x;2
+'Vitória';'Chapecoense';1;'Barradão';'17/ago 16:00';15;-;0;x;0
+'Coritiba';'Flamengo';1;'Couto Pereira';'17/ago 16:00';15;-;0;x;1
+'Figueirense';'Atlético-MG';1;'Orlando Scarpelli';'17/ago 18:30';15;-;2;x;2
+'Botafogo';'Fluminense';1;'Mané Garrincha';'17/ago 18:30';15;-;2;x;0
+'Sport';'Atlético-PR';1;'Ilha do Retiro';'17/ago 18:30';15;-;1;x;1
+'Figueirense';'Botafogo';1;'Orlando Scarpelli';'20/ago 19:30';16;-;1;x;0
+'Santos';'Atlético-PR';1;'Vila Belmiro';'20/ago 19:30';16;-;2;x;0
+'Sport';'Palmeiras';1;'Arena Pernambuco';'20/ago 19:30';16;-;2;x;1
+'Bahia';'Criciúma';1;'Fonte Nova';'20/ago 21:00';16;-;0;x;0
+'Coritiba';'Vitória';1;'Couto Pereira';'20/ago 21:00';16;-;2;x;0
+'Flamengo';'Atlético-MG';1;'Maracanã';'20/ago 22:00';16;-;2;x;1
+'Internacional';'São Paulo';1;'Beira Rio';'20/ago 22:00';16;-;0;x;1
+'Chapecoense';'Fluminense';1;'Arena Condá';'20/ago 22:00';16;-;1;x;0
+'Corinthians';'Goiás';1;'Arena Corinthians';'21/ago 19:30';16;-;5;x;2
+'Cruzeiro';'Grêmio';1;'Mineirão';'21/ago 20:30';16;-;1;x;0
+'Botafogo';'Chapecoense';1;'Maracanã';'23/ago 18:30';17;-;1;x;0
+'Atlético-MG';'Internacional';1;'Independência';'23/ago 18:30';17;-;1;x;0
+'Palmeiras';'Coritiba';1;'Pacaembu';'23/ago 21:00';17;-;1;x;0
+'Fluminense';'Sport';1;'Maracanã';'24/ago 16:00';17;-;4;x;0
+'São Paulo';'Santos';1;'Morumbi';'24/ago 16:00';17;-;2;x;1
+'Vitória';'Figueirense';1;'Barradão';'24/ago 16:00';17;-;0;x;1
+'Criciúma';'Flamengo';1;'Heriberto Hülse';'24/ago 16:00';17;-;0;x;2
+'Grêmio';'Corinthians';1;'Arena do Grêmio';'24/ago 16:00';17;-;2;x;1
+'Atlético-PR';'Bahia';1;'Arena da Baixada';'24/ago 18:30';17;-;0;x;0
+'Goiás';'Cruzeiro';1;'Serra Dourada';'24/ago 18:30';17;-;0;x;1
+'Cruzeiro';'Chapecoense';1;'Mineirão';'30/ago 18:30';18;-;4;x;2
+'Palmeiras';'Internacional';1;'Pacaembu';'30/ago 18:30';18;-;0;x;1
+'Corinthians';'Fluminense';1;'Arena Corinthians';'31/ago 16:00';18;-;1;x;1
+'Figueirense';'São Paulo';1;'Orlando Scarpelli';'31/ago 16:00';18;-;1;x;1
+'Coritiba';'Atlético-MG';1;'Couto Pereira';'31/ago 16:00';18;-;0;x;0
+'Sport';'Criciúma';1;'Ilha do Retiro';'31/ago 16:00';18;-;2;x;0
+'Botafogo';'Santos';1;'Maracanã';'31/ago 16:00';18;-;1;x;0
+'Grêmio';'Bahia';1;'Arena do Grêmio';'31/ago 18:30';18;-;1;x;0
+'Goiás';'Atlético-PR';1;'Serra Dourada';'31/ago 18:30';18;-;3;x;1
+'Vitória';'Flamengo';1;'Barradão';'31/ago 18:30';18;-;1;x;2
+'Flamengo';'Grêmio';1;'Maracanã';'06/set 18:30';19;-;0;x;1
+'Santos';'Vitória';1;'Pacaembu';'06/set 18:30';19;-;3;x;1
+'Chapecoense';'Goiás';1;'Arena Condá';'06/set 21:00';19;-;0;x;0
+'Fluminense';'Cruzeiro';1;'Maracanã';'07/set 16:00';19;-;3;x;3
+'Atlético-MG';'Botafogo';1;'Independência';'07/set 16:00';19;-;1;x;0
+'Criciúma';'Corinthians';1;'Heriberto Hülse';'07/set 16:00';19;-;0;x;0
+'São Paulo';'Sport';1;'Morumbi';'07/set 16:00';19;-;2;x;0
+'Internacional';'Figueirense';1;'Beira Rio';'07/set 18:30';19;-;2;x;3
+'Atlético-PR';'Palmeiras';1;'Arena da Baixada';'07/set 18:30';19;-;1;x;1
+'Bahia';'Coritiba';1;'Fonte Nova';'07/set 18:30';19;-;0;x;0
+'Figueirense';'Fluminense';2;'Orlando Scarpelli';'10/set 19:30';20;-;1;x;1
+'Palmeiras';'Criciúma';2;'Pacaembu';'10/set 19:30';20;-;1;x;0
+'Grêmio';'Atlético-PR';2;'Arena do Grêmio';'10/set 19:30';20;-;1;x;0
+'Sport';'Santos';2;'Arena Pernambuco';'10/set 21:00';20;-;3;x;1
+'Coritiba';'Chapecoense';2;'Couto Pereira';'10/set 21:00';20;-;3;x;0
+'Botafogo';'São Paulo';2;'Mané Garrincha';'10/set 22:00';20;-;2;x;4
+'Goiás';'Flamengo';2;'Arena Pantanal';'10/set 22:00';20;-;1;x;0
+'Vitória';'Internacional';2;'Barradão';'10/set 22:00';20;-;2;x;0
+'Corinthians';'Atlético-MG';2;'Arena Corinthians';'11/set 19:30';20;-;1;x;0
+'Cruzeiro';'Bahia';2;'Mineirão';'11/set 20:30';20;-;2;x;1
+'Chapecoense';'Sport';2;'Arena Condá';'13/set 18:30';21;-;3;x;1
+'Fluminense';'Palmeiras';2;'Maracanã';'13/set 18:30';21;-;3;x;0
+'Santos';'Coritiba';2;'Vila Belmiro';'13/set 21:00';21;-;2;x;1
+'Bahia';'Figueirense';2;'Jóia da Princesa';'14/set 16:00';21;-;3;x;0
+'Internacional';'Botafogo';2;'Beira Rio';'14/set 16:00';21;-;2;x;0
+'Flamengo';'Corinthians';2;'Maracanã';'14/set 16:00';21;-;1;x;0
+'São Paulo';'Cruzeiro';2;'Morumbi';'14/set 16:00';21;-;2;x;0
+'Atlético-MG';'Grêmio';2;'Independência';'14/set 18:30';21;-;0;x;0
+'Criciúma';'Goiás';2;'Heriberto Hülse';'14/set 18:30';21;-;1;x;0
+'Atlético-PR';'Vitória';2;'Arena da Baixada';'14/set 18:30';21;-;2;x;0
+'Vitória';'Fluminense';2;'Barradão';'17/set 19:30';22;-;3;x;1
+'Cruzeiro';'Atlético-PR';2;'Mineirão';'17/set 19:30';22;-;2;x;0
+'Sport';'Internacional';2;'Arena Pernambuco';'17/set 21:00';22;-;0;x;0
+'Figueirense';'Criciúma';2;'Orlando Scarpelli';'17/set 21:00';22;-;1;x;1
+'Coritiba';'São Paulo';2;'Couto Pereira';'17/set 22:00';22;-;3;x;1
+'Botafogo';'Bahia';2;'Maracanã';'17/set 22:00';22;-;2;x;3
+'Palmeiras';'Flamengo';2;'Pacaembu';'17/set 22:00';22;-;2;x;2
+'Goiás';'Atlético-MG';2;'Serra Dourada';'18/set 19:30';22;-;2;x;3
+'Corinthians';'Chapecoense';2;'Arena Corinthians';'18/set 19:30';22;-;1;x;1
+'Grêmio';'Santos';2;'Arena do Grêmio';'18/set 20:30';22;-;0;x;0
+'Atlético-PR';'Internacional';2;'Arena da Baixada';'20/set 18:30';23;-;0;x;1
+'Criciúma';'Botafogo';2;'Heriberto Hülse';'20/set 21:00';23;-;1;x;1
+'Cruzeiro';'Atlético-MG';2;'Mineirão';'21/set 16:00';23;-;2;x;3
+'Corinthians';'São Paulo';2;'Arena Corinthians';'21/set 16:00';23;-;3;x;2
+'Vitória';'Bahia';2;'Fonte Nova';'21/set 16:00';23;-;2;x;1
+'Flamengo';'Fluminense';2;'Maracanã';'21/set 16:00';23;-;1;x;1
+'Sport';'Coritiba';2;'Ilha do Retiro';'21/set 16:00';23;-;1;x;0
+'Grêmio';'Chapecoense';2;'Arena do Grêmio';'21/set 18:30';23;-;1;x;0
+'Santos';'Figueirense';2;'Vila Belmiro';'21/set 18:30';23;-;3;x;1
+'Goiás';'Palmeiras';2;'Serra Dourada';'21/set 18:30';23;-;6;x;0
+'Coritiba';'Cruzeiro';2;'Couto Pereira';'24/set 19:30';24;-;1;x;2
+'Internacional';'Criciúma';2;'Beira Rio';'24/set 19:30';24;-;3;x;0
+'Bahia';'Sport';2;'Fonte Nova';'24/set 21:00';24;-;1;x;0
+'Chapecoense';'Atlético-PR';2;'Arena Condá';'24/set 21:00';24;-;3;x;0
+'Figueirense';'Corinthians';2;'Orlando Scarpelli';'24/set 22:00';24;-;1;x;0
+'São Paulo';'Flamengo';2;'Morumbi';'24/set 22:00';24;-;2;x;2
+'Fluminense';'Grêmio';2;'Maracanã';'24/set 22:00';24;-;0;x;0
+'Botafogo';'Goiás';2;'Maracanã';'25/set 19:30';24;-;1;x;0
+'Palmeiras';'Vitória';2;'Pacaembu';'25/set 19:30';24;-;2;x;0
+'Atlético-MG';'Santos';2;'Independência';'25/set 20:30';24;-;3;x;2
+'Sport';'Cruzeiro';2;'Arena Pernambuco';'27/set 18:30';25;-;0;x;0
+'Chapecoense';'Criciúma';2;'Arena Condá';'27/set 18:30';25;-;1;x;1
+'São Paulo';'Fluminense';2;'Morumbi';'27/set 21:00';25;-;1;x;3
+'Bahia';'Flamengo';2;'Fonte Nova';'28/set 16:00';25;-;2;x;1
+'Atlético-PR';'Corinthians';2;'Arena da Baixada';'28/set 16:00';25;-;1;x;0
+'Botafogo';'Grêmio';2;'Maracanã';'28/set 16:00';25;-;0;x;2
+'Atlético-MG';'Vitória';2;'Independência';'28/set 16:00';25;-;2;x;0
+'Santos';'Goiás';2;'Pacaembu';'28/set 18:30';25;-;2;x;0
+'Figueirense';'Palmeiras';2;'Orlando Scarpelli';'28/set 18:30';25;-;3;x;1
+'Internacional';'Coritiba';2;'Beira Rio';'28/set 18:30';25;-;4;x;2
+'Palmeiras';'Chapecoense';2;'Pacaembu';'02/out 19:30';26;-;4;x;2
+'Vitória';'Botafogo';2;'Barradão';'04/out 16:20';26;-;2;x;1
+'Coritiba';'Atlético-PR';2;'Couto Pereira';'04/out 16:20';26;-;1;x;0
+'Flamengo';'Santos';2;'Maracanã';'04/out 16:20';26;-;0;x;1
+'Fluminense';'Bahia';2;'Mané Garrincha';'04/out 16:20';26;-;1;x;1
+'Grêmio';'São Paulo';2;'Arena do Grêmio';'04/out 16:20';26;-;0;x;1
+'Corinthians';'Sport';2;'Arena Corinthians';'04/out 18:30';26;-;3;x;0
+'Cruzeiro';'Internacional';2;'Mineirão';'04/out 18:30';26;-;2;x;1
+'Criciúma';'Atlético-MG';2;'Heriberto Hülse';'04/out 18:30';26;-;3;x;1
+'Goiás';'Figueirense';2;'Serra Dourada';'04/out 21:00';26;-;1;x;0
+'São Paulo';'Atlético-PR';2;'Morumbi';'08/out 19:30';27;-;1;x;0
+'Coritiba';'Criciúma';2;'Couto Pereira';'08/out 19:30';27;-;1;x;0
+'Botafogo';'Palmeiras';2;'Maracanã';'08/out 19:30';27;-;0;x;1
+'Vitória';'Goiás';2;'Barradão';'08/out 21:00';27;-;2;x;2
+'Figueirense';'Flamengo';2;'Orlando Scarpelli';'08/out 22:00';27;-;1;x;2
+'Cruzeiro';'Corinthians';2;'Mineirão';'08/out 22:00';27;-;0;x;1
+'Grêmio';'Sport';2;'Arena do Grêmio';'08/out 22:00';27;-;2;x;0
+'Santos';'Bahia';2;'Vila Belmiro';'09/out 19:30';27;-;1;x;0
+'Fluminense';'Atlético-MG';2;'Maracanã';'09/out 19:30';27;-;0;x;0
+'Chapecoense';'Internacional';2;'Arena Condá';'09/out 20:30';27;-;5;x;0
+'Corinthians';'Botafogo';2;'Arena Corinthians';'01/jun 16:00';28;-;1;x;1
+'Goiás';'Coritiba';2;'Serra Dourada';'11/out 18:30';28;-;3;x;0
+'Palmeiras';'Grêmio';2;'Pacaembu';'11/out 21:00';28;-;2;x;1
+'Bahia';'Chapecoense';2;'Fonte Nova';'12/out 16:00';28;-;0;x;1
+'Flamengo';'Cruzeiro';2;'Maracanã';'12/out 16:00';28;-;3;x;0
+'Atlético-MG';'São Paulo';2;'Independência';'12/out 16:00';28;-;1;x;0
+'Internacional';'Fluminense';2;'Beira Rio';'12/out 16:00';28;-;2;x;1
+'Sport';'Vitória';2;'Ilha do Retiro';'12/out 18:30';28;-;1;x;2
+'Atlético-PR';'Figueirense';2;'Arena da Baixada';'12/out 18:30';28;-;3;x;0
+'Criciúma';'Santos';2;'Heriberto Hülse';'12/out 18:30';28;-;3;x;0
+'Goiás';'Grêmio';2;'Serra Dourada';'18/out 18:30';29;-;0;x;0
+'Fluminense';'Criciúma';2;'Maracanã';'18/out 18:30';29;-;4;x;2
+'São Paulo';'Bahia';2;'Morumbi';'18/out 18:30';29;-;2;x;1
+'Atlético-MG';'Chapecoense';2;'Independência';'18/out 21:00';29;-;1;x;0
+'Figueirense';'Coritiba';2;'Orlando Scarpelli';'19/out 16:00';29;-;4;x;0
+'Atlético-PR';'Flamengo';2;'Arena da Baixada';'19/out 16:00';29;-;2;x;1
+'Palmeiras';'Santos';2;'Pacaembu';'19/out 16:00';29;-;1;x;3
+'Internacional';'Corinthians';2;'Beira Rio';'19/out 16:00';29;-;1;x;2
+'Botafogo';'Sport';2;'Raulino de Oliveira';'19/out 18:30';29;-;1;x;1
+'Vitória';'Cruzeiro';2;'Barradão';'19/out 18:30';29;-;0;x;1
+'Bahia';'Atlético-MG';2;'Fonte Nova';'21/out 21:50';30;-;1;x;1
+'Criciúma';'Atlético-PR';2;'Heriberto Hülse';'22/out 19:30';30;-;0;x;1
+'Cruzeiro';'Palmeiras';2;'Mineirão';'22/out 19:30';30;-;1;x;1
+'Corinthians';'Vitória';2;'Arena Pantanal';'22/out 19:30';30;-;2;x;1
+'Flamengo';'Internacional';2;'Maracanã';'22/out 19:30';30;-;2;x;0
+'Coritiba';'Botafogo';2;'Couto Pereira';'22/out 21:00';30;-;2;x;0
+'Grêmio';'Figueirense';2;'Arena do Grêmio';'22/out 21:00';30;-;1;x;0
+'Santos';'Fluminense';2;'Vila Belmiro';'22/out 22:00';30;-;0;x;1
+'Chapecoense';'São Paulo';2;'Arena Condá';'22/out 22:00';30;-;0;x;0
+'Sport';'Goiás';2;'Ilha do Retiro';'22/out 22:30';30;-;0;x;1
+'Figueirense';'Cruzeiro';2;'Orlando Scarpelli';'25/out 16:20';31;-;1;x;1
+'Palmeiras';'Corinthians';2;'Pacaembu';'25/out 16:20';31;-;1;x;1
+'Fluminense';'Atlético-PR';2;'Maracanã';'25/out 16:20';31;-;2;x;1
+'Chapecoense';'Santos';2;'Arena Condá';'25/out 18:30';31;-;1;x;1
+'Atlético-MG';'Sport';2;'Independência';'25/out 18:30';31;-;3;x;2
+'Vitória';'Criciúma';2;'Barradão';'25/out 18:30';31;-;3;x;1
+'Coritiba';'Grêmio';2;'Couto Pereira';'25/out 18:30';31;-;1;x;1
+'Botafogo';'Flamengo';2;'Arena da Amazônia';'25/out 21:00';31;-;2;x;1
+'Internacional';'Bahia';2;'Beira Rio';'25/out 21:00';31;-;2;x;0
+'São Paulo';'Goiás';2;'Morumbi';'27/out 20:30';31;-;3;x;0
+'Grêmio';'Vitória';2;'Arena do Grêmio';'01/nov 19:30';32;-;1;x;0
+'Goiás';'Fluminense';2;'Serra Dourada';'01/nov 19:30';32;-;0;x;2
+'Corinthians';'Coritiba';2;'Arena Corinthians';'01/nov 21:00';32;-;2;x;2
+'Criciúma';'São Paulo';2;'Heriberto Hülse';'02/nov 17:00';32;-;1;x;2
+'Santos';'Internacional';2;'Vila Belmiro';'02/nov 17:00';32;-;1;x;2
+'Sport';'Figueirense';2;'Ilha do Retiro';'02/nov 17:00';32;-;1;x;0
+'Cruzeiro';'Botafogo';2;'Mineirão';'02/nov 17:00';32;-;2;x;1
+'Flamengo';'Chapecoense';2;'Maracanã';'02/nov 19:30';32;-;3;x;0
+'Atlético-PR';'Atlético-MG';2;'Arena da Baixada';'02/nov 19:30';32;-;1;x;0
+'Bahia';'Palmeiras';2;'Fonte Nova';'02/nov 20:00';32;-;0;x;1
+'Coritiba';'Fluminense';2;'Couto Pereira';'08/nov 19:30';33;-;1;x;0
+'Palmeiras';'Atlético-MG';2;'Pacaembu';'08/nov 19:30';33;-;0;x;2
+'Botafogo';'Atlético-PR';2;'Raulino de Oliveira';'08/nov 21:00';33;-;0;x;2
+'Sport';'Flamengo';2;'Arena Pernambuco';'09/nov 17:00';33;-;2;x;2
+'Vitória';'São Paulo';2;'Barradão';'09/nov 17:00';33;-;1;x;2
+'Figueirense';'Chapecoense';2;'Orlando Scarpelli';'09/nov 17:00';33;-;1;x;0
+'Grêmio';'Internacional';2;'Arena do Grêmio';'09/nov 17:00';33;-;4;x;1
+'Cruzeiro';'Criciúma';2;'Mineirão';'09/nov 19:30';33;-;3;x;1
+'Goiás';'Bahia';2;'Serra Dourada';'09/nov 19:30';33;-;3;x;0
+'Corinthians';'Santos';2;'Arena Corinthians';'09/nov 19:30';33;-;1;x;0
+'Criciúma';'Grêmio';2;'Heriberto Hülse';'15/nov 19:30';34;-;0;x;3
+'Fluminense';'Botafogo';2;'Maracanã';'15/nov 19:30';34;-;1;x;0
+'Atlético-PR';'Sport';2;'Arena da Baixada';'16/nov 17:00';34;-;0;x;1
+'Flamengo';'Coritiba';2;'Maracanã';'16/nov 17:00';34;-;3;x;2
+'Santos';'Cruzeiro';2;'Vila Belmiro';'16/nov 17:00';34;-;0;x;1
+'Bahia';'Corinthians';2;'Fonte Nova';'16/nov 17:00';34;-;1;x;2
+'Internacional';'Goiás';2;'Beira Rio';'16/nov 17:00';34;-;1;x;0
+'São Paulo';'Palmeiras';2;'Morumbi';'16/nov 19:30';34;-;2;x;0
+'Chapecoense';'Vitória';2;'Arena Condá';'16/nov 19:30';34;-;0;x;1
+'Atlético-MG';'Figueirense';2;'Independência';'16/nov 19:30';34;-;1;x;1
+'São Paulo';'Internacional';2;'Morumbi';'12/nov 22:00';35;-;1;x;1
+'Atlético-PR';'Santos';2;'Arena da Baixada';'19/nov 19:30';35;-;1;x;1
+'Botafogo';'Figueirense';2;'São Januário';'19/nov 19:30';35;-;0;x;1
+'Vitória';'Coritiba';2;'Barradão';'19/nov 21:00';35;-;1;x;1
+'Criciúma';'Bahia';2;'Heriberto Hülse';'19/nov 21:00';35;-;0;x;1
+'Goiás';'Corinthians';2;'Mangueirão';'19/nov 21:00';35;-;0;x;1
+'Palmeiras';'Sport';2;'Allianz Parque';'19/nov 22:00';35;-;0;x;2
+'Atlético-MG';'Flamengo';2;'Independência';'19/nov 22:00';35;-;4;x;0
+'Fluminense';'Chapecoense';2;'Maracanã';'20/nov 19:30';35;-;1;x;4
+'Grêmio';'Cruzeiro';2;'Arena do Grêmio';'20/nov 21:50';35;-;1;x;2
+'Internacional';'Atlético-MG';2;'Beira Rio';'22/nov 19:30';36;-;2;x;1
+'Bahia';'Atlético-PR';2;'Fonte Nova';'22/nov 21:00';36;-;1;x;2
+'Flamengo';'Criciúma';2;'Castelão/MA';'23/nov 17:00';36;-;1;x;1
+'Santos';'São Paulo';2;'Arena Pantanal';'23/nov 17:00';36;-;0;x;1
+'Sport';'Fluminense';2;'Arena Pernambuco';'23/nov 17:00';36;-;2;x;2
+'Cruzeiro';'Goiás';2;'Mineirão';'23/nov 17:00';36;-;2;x;1
+'Figueirense';'Vitória';2;'Orlando Scarpelli';'23/nov 17:00';36;-;2;x;0
+'Corinthians';'Grêmio';2;'Arena Corinthians';'23/nov 19:30';36;-;1;x;0
+'Coritiba';'Palmeiras';2;'Couto Pereira';'23/nov 19:30';36;-;2;x;0
+'Chapecoense';'Botafogo';2;'Arena Condá';'23/nov 19:30';36;-;2;x;0
+'Internacional';'Palmeiras';2;'Beira Rio';'29/nov 19:30';37;-;;x;
+'Criciúma';'Sport';2;'Heriberto Hülse';'29/nov 19:30';37;-;;x;
+'Flamengo';'Vitória';2;'Arena da Amazônia';'29/nov 21:00';37;-;;x;
+'São Paulo';'Figueirense';2;'Morumbi';'30/nov 17:00';37;-;;x;
+'Santos';'Botafogo';2;'Vila Belmiro';'30/nov 17:00';37;-;;x;
+'Chapecoense';'Cruzeiro';2;'Arena Condá';'30/nov 17:00';37;-;;x;
+'Fluminense';'Corinthians';2;'Maracanã';'30/nov 17:00';37;-;;x;
+'Atlético-PR';'Goiás';2;'Arena da Baixada';'30/nov 19:30';37;-;;x;
+'Bahia';'Grêmio';2;'Fonte Nova';'30/nov 19:30';37;-;;x;
+'Atlético-MG';'Coritiba';2;'Independência';'30/nov 19:30';37;-;;x;
+'Vitória';'Santos';2;'Barradão';'07/dez 17:00';38;-;;x;
+'Figueirense';'Internacional';2;'Arena Condá';'07/dez 17:00';38;-;;x;
+'Coritiba';'Bahia';2;'Couto Pereira';'07/dez 17:00';38;-;;x;
+'Botafogo';'Atlético-MG';2;'Mané Garrincha';'07/dez 17:00';38;-;;x;
+'Palmeiras';'Atlético-PR';2;'Allianz Parque';'07/dez 17:00';38;-;;x;
+'Goiás';'Chapecoense';2;'Serra Dourada';'07/dez 17:00';38;-;;x;
+'Sport';'São Paulo';2;'Arena Pernambuco';'07/dez 17:00';38;-;;x;
+'Cruzeiro';'Fluminense';2;'Mineirão';'07/dez 17:00';38;-;;x;
+'Grêmio';'Flamengo';2;'Arena do Grêmio';'07/dez 17:00';38;-;;x;
+'Corinthians';'Criciúma';2;'Arena Corinthians';'07/dez 17:00';38;-;;x;

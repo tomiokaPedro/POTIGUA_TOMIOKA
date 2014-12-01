@@ -1,0 +1,12 @@
+view: jogadores da equipe
+procedure + transaction: adicionar dados
+function + or: tabela
+pacote: ------
+trigger: gols pro e contra e pontuação
+
+
+
+
+transaction
+function
+OR

@@ -1,0 +1,381 @@
+RODADA;DATA;DIA;HORA;MANDANTE;#;x;#;VISITANTE;ESTÁDIO;CIDADE
+1;19/abr;Sáb;18:30;Internacional;1;x;0;Vitória;Beira Rio;Porto Alegre
+1;19/abr;Sáb;18:30;Fluminense;3;x;0;Figueirense;Maracanã;Rio de Janeiro
+1;19/abr;Sáb;21:00;Chapecoense;0;x;0;Coritiba;Arena Condá;Chapecó
+1;20/abr;Dom;16:00;Atlético-MG;0;x;0;Corinthians;João Havelange;Uberlândia
+1;20/abr;Dom;16:00;São Paulo;3;x;0;Botafogo;Morumbi;São Paulo
+1;20/abr;Dom;16:00;Bahia;1;x;2;Cruzeiro;Fonte Nova;Salvador
+1;20/abr;Dom;16:00;Atlético-PR;1;x;0;Grêmio;Orlando Scarpelli;Florianópolis
+1;20/abr;Dom;18:30;Criciúma;1;x;2;Palmeiras;Heriberto Hülse;Criciúma
+1;20/abr;Dom;18:30;Flamengo;0;x;0;Goiás;Mané Garrincha;Brasília
+1;20/abr;Dom;18:30;Santos;1;x;1;Sport;Vila Belmiro;Santos
+2;26/abr;Sáb;18:30;Coritiba;0;x;0;Santos;Couto Pereira;Curitiba
+2;26/abr;Sáb;21:00;Palmeiras;0;x;1;Fluminense;Pacaembu;São Paulo
+2;27/abr;Dom;16:00;Corinthians;2;x;0;Flamengo;Pacaembu;São Paulo
+2;27/abr;Dom;16:00;Vitória;2;x;2;Atlético-PR;Pituaçu;Salvador
+2;27/abr;Dom;16:00;Botafogo;2;x;2;Internacional;Maracanã;Rio de Janeiro
+2;27/abr;Dom;16:00;Cruzeiro;1;x;1;São Paulo;João Havelange;Uberlândia
+2;27/abr;Dom;18:30;Goiás;1;x;0;Criciúma;Juscelino Kubitschek;Itumbiara
+2;27/abr;Dom;18:30;Sport;2;x;1;Chapecoense;Ilha do Retiro;Recife
+2;27/abr;Dom;18:30;Figueirense;0;x;2;Bahia;Arena Barueri;Barueri
+2;27/abr;Dom;18:30;Grêmio;2;x;1;Atlético-MG;Arena do Grêmio;Porto Alegre
+3;03/mai;Sáb;18:30;São Paulo;2;x;2;Coritiba;Pacaembu;São Paulo
+3;03/mai;Sáb;18:30;Atlético-PR;2;x;3;Cruzeiro;Mané Garrincha;Brasília
+3;03/mai;Sáb;18:30;Santos;0;x;0;Grêmio;Vila Belmiro;Santos
+3;03/mai;Sáb;21:00;Fluminense;1;x;2;Vitória;Maracanã;Rio de Janeiro
+3;04/mai;Dom;16:00;Flamengo;4;x;2;Palmeiras;Maracanã;Rio de Janeiro
+3;04/mai;Dom;16:00;Criciúma;1;x;0;Figueirense;Heriberto Hülse;Criciúma
+3;04/mai;Dom;16:00;Bahia;1;x;0;Botafogo;Fonte Nova;Salvador
+3;04/mai;Dom;16:00;Internacional;2;x;1;Sport;Beira Rio;Porto Alegre
+3;04/mai;Dom;18:30;Chapecoense;0;x;1;Corinthians;Arena Condá;Chapecó
+3;04/mai;Dom;18:30;Atlético-MG;0;x;1;Goiás;Independência;Belo Horizonte
+4;10/mai;Sáb;18:30;Palmeiras;2;x;0;Goiás;Pacaembu;São Paulo
+4;10/mai;Sáb;18:30;Internacional;2;x;1;Atlético-PR;Beira Rio;Porto Alegre
+4;10/mai;Sáb;21:00;Botafogo;6;x;0;Criciúma;Maracanã;Rio de Janeiro
+4;11/mai;Dom;16:00;Atlético-MG;2;x;1;Cruzeiro;Independência;Belo Horizonte
+4;11/mai;Dom;16:00;Fluminense;2;x;0;Flamengo;Maracanã;Rio de Janeiro
+4;11/mai;Dom;16:00;Chapecoense;1;x;2;Grêmio;Arena Condá;Chapecó
+4;11/mai;Dom;16:00;São Paulo;1;x;1;Corinthians;Arena Barueri;Barueri
+4;11/mai;Dom;18:30;Bahia;1;x;1;Vitória;Fonte Nova;Salvador
+4;11/mai;Dom;18:30;Figueirense;0;x;2;Santos;Estádio do Café;Londrina
+4;11/mai;Dom;18:30;Coritiba;0;x;1;Sport;Couto Pereira;Curitiba
+5;14/mai;Qua;22:00;Goiás;2;x;0;Botafogo;Mário Helênio;Juiz de Fora
+5;17/mai;Sáb;18:30;Cruzeiro;3;x;2;Coritiba;Mineirão;Belo Horizonte
+5;18/mai;Dom;16:00;Corinthians;0;x;1;Figueirense;Arena Corinthians;São Paulo
+5;18/mai;Dom;16:00;Atlético-PR;1;x;1;Chapecoense;Willie Davids;Maringá
+5;18/mai;Dom;16:00;Flamengo;0;x;2;São Paulo;Maracanã;Rio de Janeiro
+5;18/mai;Dom;16:00;Grêmio;1;x;0;Fluminense;Arena do Grêmio;Porto Alegre
+5;18/mai;Dom;18:30;Santos;1;x;2;Atlético-MG;Arena Pantanal;Cuiabá
+5;18/mai;Dom;18:30;Criciúma;0;x;0;Internacional;Heriberto Hülse;Criciúma
+5;18/mai;Dom;18:30;Vitória;0;x;1;Palmeiras;Pituaçu;Salvador
+5;04/jun;Qua;21:00;Sport;1;x;0;Bahia;Ilha do Retiro;Recife
+6;21/mai;Qua;19:30;Coritiba;1;x;1;Internacional;Couto Pereira;Curitiba
+6;21/mai;Qua;19:30;Flamengo;1;x;1;Bahia;Moacyrzão;Macaé
+6;21/mai;Qua;21:00;Cruzeiro;2;x;0;Sport;Mineirão;Belo Horizonte
+6;21/mai;Qua;21:00;Criciúma;1;x;0;Chapecoense;Heriberto Hülse;Criciúma
+6;21/mai;Qua;22:00;Corinthians;1;x;1;Atlético-PR;Canindé;São Paulo
+6;21/mai;Qua;22:00;Grêmio;2;x;1;Botafogo;Alfredo Jaconi;Caxias do Sul
+6;21/mai;Qua;22:00;Fluminense;5;x;2;São Paulo;Maracanã;Rio de Janeiro
+6;22/mai;Qui;19:30;Palmeiras;1;x;0;Figueirense;Fonte Luminosa;Araraquara
+6;22/mai;Qui;19:30;Goiás;2;x;2;Santos;Serra Dourada;Goiânia
+6;22/mai;Qui;21:00;Vitória;2;x;3;Atlético-MG;Jóia da Princesa;Feira de Santana
+7;24/mai;Sáb;18:30;Bahia;0;x;1;Fluminense;Arena Barueri;Barueri
+7;24/mai;Sáb;21:00;São Paulo;1;x;0;Grêmio;Morumbi;São Paulo
+7;25/mai;Dom;16:00;Figueirense;0;x;1;Goiás;Orlando Scarpelli;Florianópolis
+7;25/mai;Dom;16:00;Santos;0;x;0;Flamengo;Morumbi;São Paulo
+7;25/mai;Dom;16:00;Sport;1;x;4;Corinthians;Ilha do Retiro;Recife
+7;25/mai;Dom;16:00;Atlético-PR;2;x;0;Coritiba;Willie Davids;Maringá
+7;25/mai;Dom;18:30;Chapecoense;2;x;0;Palmeiras;Arena Condá;Chapecó
+7;25/mai;Dom;18:30;Botafogo;1;x;1;Vitória;Moacyrzão;Macaé
+7;25/mai;Dom;18:30;Atlético-MG;0;x;0;Criciúma;João Lamego;Ipatinga
+7;25/mai;Dom;18:30;Internacional;1;x;3;Cruzeiro;Centenário;Caxias do Sul
+8;28/mai;Qua;19:30;Sport;0;x;0;Grêmio;Ilha do Retiro;Recife
+8;28/mai;Qua;19:30;Palmeiras;0;x;2;Botafogo;Paulo Constantino;Presidente Prudente
+8;28/mai;Qua;19:30;Criciúma;1;x;0;Coritiba;Heriberto Hülse;Criciúma
+8;28/mai;Qua;21:00;Internacional;2;x;0;Chapecoense;Centenário;Caxias do Sul
+8;28/mai;Qua;21:00;Goiás;0;x;0;Vitória;Serra Dourada;Goiânia
+8;28/mai;Qua;22:00;Corinthians;1;x;0;Cruzeiro;Canindé;São Paulo
+8;28/mai;Qua;22:00;Atlético-PR;2;x;2;São Paulo;João Havelange;Uberlândia
+8;28/mai;Qua;22:00;Atlético-MG;2;x;0;Fluminense;João Lamego;Ipatinga
+8;29/mai;Qui;19:30;Flamengo;1;x;1;Figueirense;Morumbi;São Paulo
+8;29/mai;Qui;21:00;Bahia;0;x;2;Santos;Jóia da Princesa;Feira de Santana
+9;31/mai;Sáb;18:30;São Paulo;2;x;1;Atlético-MG;Morumbi;São Paulo
+9;31/mai;Sáb;18:30;Coritiba;3;x;0;Goiás;Durival Britto;Curitiba
+9;31/mai;Sáb;21:00;Vitória;0;x;1;Sport;Jóia da Princesa;Feira de Santana
+9;01/jun;Dom;16:00;Grêmio;0;x;0;Palmeiras;Alfredo Jaconi;Caxias do Sul
+9;01/jun;Dom;16:00;Chapecoense;2;x;1;Bahia;Arena Condá;Chapecó
+9;01/jun;Dom;16:00;Cruzeiro;3;x;0;Flamengo;João Havelange;Uberlândia
+9;01/jun;Dom;18:30;Figueirense;1;x;3;Atlético-PR;Orlando Scarpelli;Florianópolis
+9;01/jun;Dom;18:30;Santos;2;x;0;Criciúma;1º de Maio;São Bernardo
+9;01/jun;Dom;18:30;Fluminense;1;x;1;Internacional;Moacyrzão;Macaé
+9;11/out;Sáb;18:30;Botafogo;1;x;0;Corinthians;Arena da Amazônia;Manaus
+10;16/jul;Qua;19:30;Coritiba;0;x;2;Figueirense;Couto Pereira;Curitiba
+10;16/jul;Qua;19:30;Sport;1;x;0;Botafogo;Ilha do Retiro;Recife
+10;16/jul;Qua;19:30;Grêmio;0;x;0;Goiás;Arena do Grêmio;Porto Alegre
+10;16/jul;Qua;22:00;Bahia;0;x;2;São Paulo;Fonte Nova;Salvador
+10;16/jul;Qua;22:00;Flamengo;1;x;2;Atlético-PR;Moacyrzão;Macaé
+10;16/jul;Qua;22:00;Criciúma;3;x;2;Fluminense;Heriberto Hülse;Criciúma
+10;17/jul;Qui;19:30;Corinthians;2;x;1;Internacional;Arena Corinthians;São Paulo
+10;17/jul;Qui;19:30;Santos;2;x;0;Palmeiras;Vila Belmiro;Santos
+10;17/jul;Qui;21:00;Cruzeiro;3;x;1;Vitória;Mineirão;Belo Horizonte
+10;06/ago;Qua;21:00;Chapecoense;1;x;1;Atlético-MG;Arena Condá;Chapecó
+11;19/jul;Sáb;18:30;São Paulo;0;x;1;Chapecoense;Morumbi;São Paulo
+11;19/jul;Sáb;18:30;Atlético-MG;1;x;1;Bahia;Independência;Belo Horizonte
+11;19/jul;Sáb;18:30;Figueirense;0;x;1;Grêmio;Orlando Scarpelli;Florianópolis
+11;19/jul;Sáb;21:00;Botafogo;1;x;0;Coritiba;Raulino de Oliveira;Volta Redonda
+11;20/jul;Dom;16:00;Vitória;0;x;0;Corinthians;Barradão;Salvador
+11;20/jul;Dom;16:00;Palmeiras;1;x;2;Cruzeiro;Pacaembu;São Paulo
+11;20/jul;Dom;16:00;Internacional;4;x;0;Flamengo;Beira Rio;Porto Alegre
+11;20/jul;Dom;18:30;Atlético-PR;2;x;0;Criciúma;Arena da Baixada;Curitiba
+11;20/jul;Dom;18:30;Goiás;0;x;0;Sport;Serra Dourada;Goiânia
+11;20/jul;Dom;18:30;Fluminense;1;x;0;Santos;Raulino de Oliveira;Volta Redonda
+12;26/jul;Sáb;18:30;Santos;3;x;0;Chapecoense;Vila Belmiro;Santos
+12;26/jul;Sáb;18:30;Cruzeiro;5;x;0;Figueirense;Mineirão;Belo Horizonte
+12;26/jul;Sáb;18:30;Criciúma;1;x;3;Vitória;Heriberto Hülse;Criciúma
+12;26/jul;Sáb;21:00;Bahia;0;x;1;Internacional;Fonte Nova;Salvador
+12;27/jul;Dom;16:00;Corinthians;2;x;0;Palmeiras;Arena Corinthians;São Paulo
+12;27/jul;Dom;16:00;Atlético-PR;0;x;3;Fluminense;Arena da Baixada;Curitiba
+12;27/jul;Dom;16:00;Goiás;2;x;1;São Paulo;Serra Dourada;Goiânia
+12;27/jul;Dom;16:00;Sport;2;x;1;Atlético-MG;Ilha do Retiro;Recife
+12;27/jul;Dom;18:30;Flamengo;1;x;0;Botafogo;Maracanã;Rio de Janeiro
+12;27/jul;Dom;18:30;Grêmio;2;x;3;Coritiba;Arena do Grêmio;Porto Alegre
+13;02/ago;Sáb;18:30;São Paulo;1;x;1;Criciúma;Morumbi;São Paulo
+13;02/ago;Sáb;18:30;Botafogo;1;x;1;Cruzeiro;Maracanã;Rio de Janeiro
+13;02/ago;Sáb;21:00;Vitória;2;x;1;Grêmio;Barradão;Salvador
+13;03/ago;Dom;16:00;Figueirense;3;x;0;Sport;Orlando Scarpelli;Florianópolis
+13;03/ago;Dom;16:00;Coritiba;0;x;0;Corinthians;Couto Pereira;Curitiba
+13;03/ago;Dom;16:00;Palmeiras;1;x;1;Bahia;Pacaembu;São Paulo
+13;03/ago;Dom;16:00;Chapecoense;1;x;0;Flamengo;Arena Condá;Chapecó
+13;03/ago;Dom;18:30;Fluminense;2;x;0;Goiás;Maracanã;Rio de Janeiro
+13;03/ago;Dom;18:30;Atlético-MG;3;x;1;Atlético-PR;Independência;Belo Horizonte
+13;03/ago;Dom;18:30;Internacional;1;x;0;Santos;Beira Rio;Porto Alegre
+14;09/ago;Sáb;18:30;Bahia;1;x;0;Goiás;Fonte Nova;Salvador
+14;09/ago;Sáb;18:30;Criciúma;0;x;0;Cruzeiro;Heriberto Hülse;Criciúma
+14;09/ago;Sáb;21:00;Fluminense;1;x;1;Coritiba;Maracanã;Rio de Janeiro
+14;10/ago;Dom;16:00;Internacional;2;x;0;Grêmio;Beira Rio;Porto Alegre
+14;10/ago;Dom;16:00;Santos;0;x;1;Corinthians;Vila Belmiro;Santos
+14;10/ago;Dom;16:00;Flamengo;1;x;0;Sport;Maracanã;Rio de Janeiro
+14;10/ago;Dom;16:00;Atlético-PR;2;x;0;Botafogo;Arena da Baixada;Curitiba
+14;10/ago;Dom;18:30;São Paulo;3;x;1;Vitória;Morumbi;São Paulo
+14;10/ago;Dom;18:30;Chapecoense;0;x;1;Figueirense;Arena Condá;Chapecó
+14;10/ago;Dom;18:30;Atlético-MG;2;x;1;Palmeiras;Independência;Belo Horizonte
+15;16/ago;Sáb;18:30;Goiás;0;x;1;Internacional;Serra Dourada;Goiânia
+15;16/ago;Sáb;21:00;Corinthians;1;x;1;Bahia;Arena Corinthians;São Paulo
+15;17/ago;Dom;16:00;Grêmio;2;x;0;Criciúma;Arena do Grêmio;Porto Alegre
+15;17/ago;Dom;16:00;Cruzeiro;3;x;0;Santos;Mineirão;Belo Horizonte
+15;17/ago;Dom;16:00;Palmeiras;1;x;2;São Paulo;Pacaembu;São Paulo
+15;17/ago;Dom;16:00;Vitória;0;x;0;Chapecoense;Barradão;Salvador
+15;17/ago;Dom;16:00;Coritiba;0;x;1;Flamengo;Couto Pereira;Curitiba
+15;17/ago;Dom;18:30;Figueirense;2;x;2;Atlético-MG;Orlando Scarpelli;Florianópolis
+15;17/ago;Dom;18:30;Botafogo;2;x;0;Fluminense;Mané Garrincha;Brasília
+15;17/ago;Dom;18:30;Sport;1;x;1;Atlético-PR;Ilha do Retiro;Recife
+16;20/ago;Qua;19:30;Figueirense;1;x;0;Botafogo;Orlando Scarpelli;Florianópolis
+16;20/ago;Qua;19:30;Santos;2;x;0;Atlético-PR;Vila Belmiro;Santos
+16;20/ago;Qua;19:30;Sport;2;x;1;Palmeiras;Arena Pernambuco;S. Lourenço da Mata
+16;20/ago;Qua;21:00;Bahia;0;x;0;Criciúma;Fonte Nova;Salvador
+16;20/ago;Qua;21:00;Coritiba;2;x;0;Vitória;Couto Pereira;Curitiba
+16;20/ago;Qua;22:00;Flamengo;2;x;1;Atlético-MG;Maracanã;Rio de Janeiro
+16;20/ago;Qua;22:00;Internacional;0;x;1;São Paulo;Beira Rio;Porto Alegre
+16;20/ago;Qua;22:00;Chapecoense;1;x;0;Fluminense;Arena Condá;Chapecó
+16;21/ago;Qui;19:30;Corinthians;5;x;2;Goiás;Arena Corinthians;São Paulo
+16;21/ago;Qui;20:30;Cruzeiro;1;x;0;Grêmio;Mineirão;Belo Horizonte
+17;23/ago;Sáb;18:30;Botafogo;1;x;0;Chapecoense;Maracanã;Rio de Janeiro
+17;23/ago;Sáb;18:30;Atlético-MG;1;x;0;Internacional;Independência;Belo Horizonte
+17;23/ago;Sáb;21:00;Palmeiras;1;x;0;Coritiba;Pacaembu;São Paulo
+17;24/ago;Dom;16:00;Fluminense;4;x;0;Sport;Maracanã;Rio de Janeiro
+17;24/ago;Dom;16:00;São Paulo;2;x;1;Santos;Morumbi;São Paulo
+17;24/ago;Dom;16:00;Vitória;0;x;1;Figueirense;Barradão;Salvador
+17;24/ago;Dom;16:00;Criciúma;0;x;2;Flamengo;Heriberto Hülse;Criciúma
+17;24/ago;Dom;16:00;Grêmio;2;x;1;Corinthians;Arena do Grêmio;Porto Alegre
+17;24/ago;Dom;18:30;Atlético-PR;0;x;0;Bahia;Arena da Baixada;Curitiba
+17;24/ago;Dom;18:30;Goiás;0;x;1;Cruzeiro;Serra Dourada;Goiânia
+18;30/ago;Sáb;18:30;Cruzeiro;4;x;2;Chapecoense;Mineirão;Belo Horizonte
+18;30/ago;Sáb;18:30;Palmeiras;0;x;1;Internacional;Pacaembu;São Paulo
+18;31/ago;Dom;16:00;Corinthians;1;x;1;Fluminense;Arena Corinthians;São Paulo
+18;31/ago;Dom;16:00;Figueirense;1;x;1;São Paulo;Orlando Scarpelli;Florianópolis
+18;31/ago;Dom;16:00;Coritiba;0;x;0;Atlético-MG;Couto Pereira;Curitiba
+18;31/ago;Dom;16:00;Sport;2;x;0;Criciúma;Ilha do Retiro;Recife
+18;31/ago;Dom;16:00;Botafogo;1;x;0;Santos;Maracanã;Rio de Janeiro
+18;31/ago;Dom;18:30;Grêmio;1;x;0;Bahia;Arena do Grêmio;Porto Alegre
+18;31/ago;Dom;18:30;Goiás;3;x;1;Atlético-PR;Serra Dourada;Goiânia
+18;31/ago;Dom;18:30;Vitória;1;x;2;Flamengo;Barradão;Salvador
+19;06/set;Sáb;18:30;Flamengo;0;x;1;Grêmio;Maracanã;Rio de Janeiro
+19;06/set;Sáb;18:30;Santos;3;x;1;Vitória;Pacaembu;São Paulo
+19;06/set;Sáb;21:00;Chapecoense;0;x;0;Goiás;Arena Condá;Chapecó
+19;07/set;Dom;16:00;Fluminense;3;x;3;Cruzeiro;Maracanã;Rio de Janeiro
+19;07/set;Dom;16:00;Atlético-MG;1;x;0;Botafogo;Independência;Belo Horizonte
+19;07/set;Dom;16:00;Criciúma;0;x;0;Corinthians;Heriberto Hülse;Criciúma
+19;07/set;Dom;16:00;São Paulo;2;x;0;Sport;Morumbi;São Paulo
+19;07/set;Dom;18:30;Internacional;2;x;3;Figueirense;Beira Rio;Porto Alegre
+19;07/set;Dom;18:30;Atlético-PR;1;x;1;Palmeiras;Arena da Baixada;Curitiba
+19;07/set;Dom;18:30;Bahia;0;x;0;Coritiba;Fonte Nova;Salvador
+20;10/set;Qua;19:30;Figueirense;1;x;1;Fluminense;Orlando Scarpelli;Florianópolis
+20;10/set;Qua;19:30;Palmeiras;1;x;0;Criciúma;Pacaembu;São Paulo
+20;10/set;Qua;19:30;Grêmio;1;x;0;Atlético-PR;Arena do Grêmio;Porto Alegre
+20;10/set;Qua;21:00;Sport;3;x;1;Santos;Arena Pernambuco;S. Lourenço da Mata
+20;10/set;Qua;21:00;Coritiba;3;x;0;Chapecoense;Couto Pereira;Curitiba
+20;10/set;Qua;22:00;Botafogo;2;x;4;São Paulo;Mané Garrincha;Brasília
+20;10/set;Qua;22:00;Goiás;1;x;0;Flamengo;Arena Pantanal;Cuiabá
+20;10/set;Qua;22:00;Vitória;2;x;0;Internacional;Barradão;Salvador
+20;11/set;Qui;19:30;Corinthians;1;x;0;Atlético-MG;Arena Corinthians;São Paulo
+20;11/set;Qui;20:30;Cruzeiro;2;x;1;Bahia;Mineirão;Belo Horizonte
+21;13/set;Sáb;18:30;Chapecoense;3;x;1;Sport;Arena Condá;Chapecó
+21;13/set;Sáb;18:30;Fluminense;3;x;0;Palmeiras;Maracanã;Rio de Janeiro
+21;13/set;Sáb;21:00;Santos;2;x;1;Coritiba;Vila Belmiro;Santos
+21;14/set;Dom;16:00;Bahia;3;x;0;Figueirense;Jóia da Princesa;Feira de Santana
+21;14/set;Dom;16:00;Internacional;2;x;0;Botafogo;Beira Rio;Porto Alegre
+21;14/set;Dom;16:00;Flamengo;1;x;0;Corinthians;Maracanã;Rio de Janeiro
+21;14/set;Dom;16:00;São Paulo;2;x;0;Cruzeiro;Morumbi;São Paulo
+21;14/set;Dom;18:30;Atlético-MG;0;x;0;Grêmio;Independência;Belo Horizonte
+21;14/set;Dom;18:30;Criciúma;1;x;0;Goiás;Heriberto Hülse;Criciúma
+21;14/set;Dom;18:30;Atlético-PR;2;x;0;Vitória;Arena da Baixada;Curitiba
+22;17/set;Qua;19:30;Vitória;3;x;1;Fluminense;Barradão;Salvador
+22;17/set;Qua;19:30;Cruzeiro;2;x;0;Atlético-PR;Mineirão;Belo Horizonte
+22;17/set;Qua;21:00;Sport;0;x;0;Internacional;Arena Pernambuco;S. Lourenço da Mata
+22;17/set;Qua;21:00;Figueirense;1;x;1;Criciúma;Orlando Scarpelli;Florianópolis
+22;17/set;Qua;22:00;Coritiba;3;x;1;São Paulo;Couto Pereira;Curitiba
+22;17/set;Qua;22:00;Botafogo;2;x;3;Bahia;Maracanã;Rio de Janeiro
+22;17/set;Qua;22:00;Palmeiras;2;x;2;Flamengo;Pacaembu;São Paulo
+22;18/set;Qui;19:30;Goiás;2;x;3;Atlético-MG;Serra Dourada;Goiânia
+22;18/set;Qui;19:30;Corinthians;1;x;1;Chapecoense;Arena Corinthians;São Paulo
+22;18/set;Qui;20:30;Grêmio;0;x;0;Santos;Arena do Grêmio;Porto Alegre
+23;20/set;Sáb;18:30;Atlético-PR;0;x;1;Internacional;Arena da Baixada;Curitiba
+23;20/set;Sáb;21:00;Criciúma;1;x;1;Botafogo;Heriberto Hülse;Criciúma
+23;21/set;Dom;16:00;Cruzeiro;2;x;3;Atlético-MG;Mineirão;Belo Horizonte
+23;21/set;Dom;16:00;Corinthians;3;x;2;São Paulo;Arena Corinthians;São Paulo
+23;21/set;Dom;16:00;Vitória;2;x;1;Bahia;Fonte Nova;Salvador
+23;21/set;Dom;16:00;Flamengo;1;x;1;Fluminense;Maracanã;Rio de Janeiro
+23;21/set;Dom;16:00;Sport;1;x;0;Coritiba;Ilha do Retiro;Recife
+23;21/set;Dom;18:30;Grêmio;1;x;0;Chapecoense;Arena do Grêmio;Porto Alegre
+23;21/set;Dom;18:30;Santos;3;x;1;Figueirense;Vila Belmiro;Santos
+23;21/set;Dom;18:30;Goiás;6;x;0;Palmeiras;Serra Dourada;Goiânia
+24;24/set;Qua;19:30;Coritiba;1;x;2;Cruzeiro;Couto Pereira;Curitiba
+24;24/set;Qua;19:30;Internacional;3;x;0;Criciúma;Beira Rio;Porto Alegre
+24;24/set;Qua;21:00;Bahia;1;x;0;Sport;Fonte Nova;Salvador
+24;24/set;Qua;21:00;Chapecoense;3;x;0;Atlético-PR;Arena Condá;Chapecó
+24;24/set;Qua;22:00;Figueirense;1;x;0;Corinthians;Orlando Scarpelli;Florianópolis
+24;24/set;Qua;22:00;São Paulo;2;x;2;Flamengo;Morumbi;São Paulo
+24;24/set;Qua;22:00;Fluminense;0;x;0;Grêmio;Maracanã;Rio de Janeiro
+24;25/set;Qui;19:30;Botafogo;1;x;0;Goiás;Maracanã;Rio de Janeiro
+24;25/set;Qui;19:30;Palmeiras;2;x;0;Vitória;Pacaembu;São Paulo
+24;25/set;Qui;20:30;Atlético-MG;3;x;2;Santos;Independência;Belo Horizonte
+25;27/set;Sáb;18:30;Sport;0;x;0;Cruzeiro;Arena Pernambuco;S. Lourenço da Mata
+25;27/set;Sáb;18:30;Chapecoense;1;x;1;Criciúma;Arena Condá;Chapecó
+25;27/set;Sáb;21:00;São Paulo;1;x;3;Fluminense;Morumbi;São Paulo
+25;28/set;Dom;16:00;Bahia;2;x;1;Flamengo;Fonte Nova;Salvador
+25;28/set;Dom;16:00;Atlético-PR;1;x;0;Corinthians;Arena da Baixada;Curitiba
+25;28/set;Dom;16:00;Botafogo;0;x;2;Grêmio;Maracanã;Rio de Janeiro
+25;28/set;Dom;16:00;Atlético-MG;2;x;0;Vitória;Independência;Belo Horizonte
+25;28/set;Dom;18:30;Santos;2;x;0;Goiás;Pacaembu;São Paulo
+25;28/set;Dom;18:30;Figueirense;3;x;1;Palmeiras;Orlando Scarpelli;Florianópolis
+25;28/set;Dom;18:30;Internacional;4;x;2;Coritiba;Beira Rio;Porto Alegre
+26;02/out;Qui;19:30;Palmeiras;4;x;2;Chapecoense;Pacaembu;São Paulo
+26;04/out;Sáb;16:20;Vitória;2;x;1;Botafogo;Barradão;Salvador
+26;04/out;Sáb;16:20;Coritiba;1;x;0;Atlético-PR;Couto Pereira;Curitiba
+26;04/out;Sáb;16:20;Flamengo;0;x;1;Santos;Maracanã;Rio de Janeiro
+26;04/out;Sáb;16:20;Fluminense;1;x;1;Bahia;Mané Garrincha;Brasília
+26;04/out;Sáb;16:20;Grêmio;0;x;1;São Paulo;Arena do Grêmio;Porto Alegre
+26;04/out;Sáb;18:30;Corinthians;3;x;0;Sport;Arena Corinthians;São Paulo
+26;04/out;Sáb;18:30;Cruzeiro;2;x;1;Internacional;Mineirão;Belo Horizonte
+26;04/out;Sáb;18:30;Criciúma;3;x;1;Atlético-MG;Heriberto Hülse;Criciúma
+26;04/out;Sáb;21:00;Goiás;1;x;0;Figueirense;Serra Dourada;Goiânia
+27;08/out;Qua;19:30;São Paulo;1;x;0;Atlético-PR;Morumbi;São Paulo
+27;08/out;Qua;19:30;Coritiba;1;x;0;Criciúma;Couto Pereira;Curitiba
+27;08/out;Qua;19:30;Botafogo;0;x;1;Palmeiras;Maracanã;Rio de Janeiro
+27;08/out;Qua;21:00;Vitória;2;x;2;Goiás;Barradão;Salvador
+27;08/out;Qua;22:00;Figueirense;1;x;2;Flamengo;Orlando Scarpelli;Florianópolis
+27;08/out;Qua;22:00;Cruzeiro;0;x;1;Corinthians;Mineirão;Belo Horizonte
+27;08/out;Qua;22:00;Grêmio;2;x;0;Sport;Arena do Grêmio;Porto Alegre
+27;09/out;Qui;19:30;Santos;1;x;0;Bahia;Vila Belmiro;Santos
+27;09/out;Qui;19:30;Fluminense;0;x;0;Atlético-MG;Maracanã;Rio de Janeiro
+27;09/out;Qui;20:30;Chapecoense;5;x;0;Internacional;Arena Condá;Chapecó
+28;01/jun;Dom;16:00;Corinthians;1;x;1;Botafogo;Arena Corinthians;São Paulo
+28;11/out;Sáb;18:30;Goiás;3;x;0;Coritiba;Serra Dourada;Goiânia
+28;11/out;Sáb;21:00;Palmeiras;2;x;1;Grêmio;Pacaembu;São Paulo
+28;12/out;Dom;16:00;Bahia;0;x;1;Chapecoense;Fonte Nova;Salvador
+28;12/out;Dom;16:00;Flamengo;3;x;0;Cruzeiro;Maracanã;Rio de Janeiro
+28;12/out;Dom;16:00;Atlético-MG;1;x;0;São Paulo;Independência;Belo Horizonte
+28;12/out;Dom;16:00;Internacional;2;x;1;Fluminense;Beira Rio;Porto Alegre
+28;12/out;Dom;18:30;Sport;1;x;2;Vitória;Ilha do Retiro;Recife
+28;12/out;Dom;18:30;Atlético-PR;3;x;0;Figueirense;Arena da Baixada;Curitiba
+28;12/out;Dom;18:30;Criciúma;3;x;0;Santos;Heriberto Hülse;Criciúma
+29;18/out;Sáb;18:30;Goiás;0;x;0;Grêmio;Serra Dourada;Goiânia
+29;18/out;Sáb;18:30;Fluminense;4;x;2;Criciúma;Maracanã;Rio de Janeiro
+29;18/out;Sáb;18:30;São Paulo;2;x;1;Bahia;Morumbi;São Paulo
+29;18/out;Sáb;21:00;Atlético-MG;1;x;0;Chapecoense;Independência;Belo Horizonte
+29;19/out;Dom;16:00;Figueirense;4;x;0;Coritiba;Orlando Scarpelli;Florianópolis
+29;19/out;Dom;16:00;Atlético-PR;2;x;1;Flamengo;Arena da Baixada;Curitiba
+29;19/out;Dom;16:00;Palmeiras;1;x;3;Santos;Pacaembu;São Paulo
+29;19/out;Dom;16:00;Internacional;1;x;2;Corinthians;Beira Rio;Porto Alegre
+29;19/out;Dom;18:30;Botafogo;1;x;1;Sport;Raulino de Oliveira;Volta Redonda
+29;19/out;Dom;18:30;Vitória;0;x;1;Cruzeiro;Barradão;Salvador
+30;21/out;Ter;21:50;Bahia;1;x;1;Atlético-MG;Fonte Nova;Salvador
+30;22/out;Qua;19:30;Criciúma;0;x;1;Atlético-PR;Heriberto Hülse;Criciúma
+30;22/out;Qua;19:30;Cruzeiro;1;x;1;Palmeiras;Mineirão;Belo Horizonte
+30;22/out;Qua;19:30;Corinthians;2;x;1;Vitória;Arena Pantanal;Cuiabá
+30;22/out;Qua;19:30;Flamengo;2;x;0;Internacional;Maracanã;Rio de Janeiro
+30;22/out;Qua;21:00;Coritiba;2;x;0;Botafogo;Couto Pereira;Curitiba
+30;22/out;Qua;21:00;Grêmio;1;x;0;Figueirense;Arena do Grêmio;Porto Alegre
+30;22/out;Qua;22:00;Santos;0;x;1;Fluminense;Vila Belmiro;Santos
+30;22/out;Qua;22:00;Chapecoense;0;x;0;São Paulo;Arena Condá;Chapecó
+30;22/out;Qua;22:30;Sport;0;x;1;Goiás;Ilha do Retiro;Recife
+31;25/out;Sáb;16:20;Figueirense;1;x;1;Cruzeiro;Orlando Scarpelli;Florianópolis
+31;25/out;Sáb;16:20;Palmeiras;1;x;1;Corinthians;Pacaembu;São Paulo
+31;25/out;Sáb;16:20;Fluminense;2;x;1;Atlético-PR;Maracanã;Rio de Janeiro
+31;25/out;Sáb;18:30;Chapecoense;1;x;1;Santos;Arena Condá;Chapecó
+31;25/out;Sáb;18:30;Atlético-MG;3;x;2;Sport;Independência;Belo Horizonte
+31;25/out;Sáb;18:30;Vitória;3;x;1;Criciúma;Barradão;Salvador
+31;25/out;Sáb;18:30;Coritiba;1;x;1;Grêmio;Couto Pereira;Curitiba
+31;25/out;Sáb;21:00;Botafogo;2;x;1;Flamengo;Arena da Amazônia;Manaus
+31;25/out;Sáb;21:00;Internacional;2;x;0;Bahia;Beira Rio;Porto Alegre
+31;27/out;Seg;20:30;São Paulo;3;x;0;Goiás;Morumbi;São Paulo
+32;01/nov;Sáb;19:30;Grêmio;1;x;0;Vitória;Arena do Grêmio;Porto Alegre
+32;01/nov;Sáb;19:30;Goiás;0;x;2;Fluminense;Serra Dourada;Goiânia
+32;01/nov;Sáb;21:00;Corinthians;2;x;2;Coritiba;Arena Corinthians;São Paulo
+32;02/nov;Dom;17:00;Criciúma;1;x;2;São Paulo;Heriberto Hülse;Criciúma
+32;02/nov;Dom;17:00;Santos;1;x;2;Internacional;Vila Belmiro;Santos
+32;02/nov;Dom;17:00;Sport;1;x;0;Figueirense;Ilha do Retiro;Recife
+32;02/nov;Dom;17:00;Cruzeiro;2;x;1;Botafogo;Mineirão;Belo Horizonte
+32;02/nov;Dom;19:30;Flamengo;3;x;0;Chapecoense;Maracanã;Rio de Janeiro
+32;02/nov;Dom;19:30;Atlético-PR;1;x;0;Atlético-MG;Arena da Baixada;Curitiba
+32;02/nov;Dom;20:00;Bahia;0;x;1;Palmeiras;Fonte Nova;Salvador
+33;08/nov;Sáb;19:30;Coritiba;1;x;0;Fluminense;Couto Pereira;Curitiba
+33;08/nov;Sáb;19:30;Palmeiras;0;x;2;Atlético-MG;Pacaembu;São Paulo
+33;08/nov;Sáb;21:00;Botafogo;0;x;2;Atlético-PR;Raulino de Oliveira;Volta Redonda
+33;09/nov;Dom;17:00;Sport;2;x;2;Flamengo;Arena Pernambuco;S. Lourenço da Mata
+33;09/nov;Dom;17:00;Vitória;1;x;2;São Paulo;Barradão;Salvador
+33;09/nov;Dom;17:00;Figueirense;1;x;0;Chapecoense;Orlando Scarpelli;Florianópolis
+33;09/nov;Dom;17:00;Grêmio;4;x;1;Internacional;Arena do Grêmio;Porto Alegre
+33;09/nov;Dom;19:30;Cruzeiro;3;x;1;Criciúma;Mineirão;Belo Horizonte
+33;09/nov;Dom;19:30;Goiás;3;x;0;Bahia;Serra Dourada;Goiânia
+33;09/nov;Dom;19:30;Corinthians;1;x;0;Santos;Arena Corinthians;São Paulo
+34;15/nov;Sáb;19:30;Criciúma;0;x;3;Grêmio;Heriberto Hülse;Criciúma
+34;15/nov;Sáb;19:30;Fluminense;1;x;0;Botafogo;Maracanã;Rio de Janeiro
+34;16/nov;Dom;17:00;Atlético-PR;0;x;1;Sport;Arena da Baixada;Curitiba
+34;16/nov;Dom;17:00;Flamengo;3;x;2;Coritiba;Maracanã;Rio de Janeiro
+34;16/nov;Dom;17:00;Santos;0;x;1;Cruzeiro;Vila Belmiro;Santos
+34;16/nov;Dom;17:00;Bahia;1;x;2;Corinthians;Fonte Nova;Salvador
+34;16/nov;Dom;17:00;Internacional;1;x;0;Goiás;Beira Rio;Porto Alegre
+34;16/nov;Dom;19:30;São Paulo;2;x;0;Palmeiras;Morumbi;São Paulo
+34;16/nov;Dom;19:30;Chapecoense;0;x;1;Vitória;Arena Condá;Chapecó
+34;16/nov;Dom;19:30;Atlético-MG;1;x;1;Figueirense;Independência;Belo Horizonte
+35;12/nov;Qua;22:00;São Paulo;1;x;1;Internacional;Morumbi;São Paulo
+35;19/nov;Qua;19:30;Atlético-PR;1;x;1;Santos;Arena da Baixada;Curitiba
+35;19/nov;Qua;19:30;Botafogo;0;x;1;Figueirense;São Januário;Rio de Janeiro
+35;19/nov;Qua;21:00;Vitória;1;x;1;Coritiba;Barradão;Salvador
+35;19/nov;Qua;21:00;Criciúma;0;x;1;Bahia;Heriberto Hülse;Criciúma
+35;19/nov;Qua;21:00;Goiás;0;x;1;Corinthians;Mangueirão;Belém
+35;19/nov;Qua;22:00;Palmeiras;0;x;2;Sport;Allianz Parque;Sao Paulo
+35;19/nov;Qua;22:00;Atlético-MG;4;x;0;Flamengo;Independência;Belo Horizonte
+35;20/nov;Qui;19:30;Fluminense;1;x;4;Chapecoense;Maracanã;Rio de Janeiro
+35;20/nov;Qui;21:50;Grêmio;1;x;2;Cruzeiro;Arena do Grêmio;Porto Alegre
+36;22/nov;Sáb;19:30;Internacional;2;x;1;Atlético-MG;Beira Rio;Porto Alegre
+36;22/nov;Sáb;21:00;Bahia;1;x;2;Atlético-PR;Fonte Nova;Salvador
+36;23/nov;Dom;17:00;Flamengo;1;x;1;Criciúma;Castelão/MA;São Luis
+36;23/nov;Dom;17:00;Santos;0;x;1;São Paulo;Arena Pantanal;Cuiabá
+36;23/nov;Dom;17:00;Sport;2;x;2;Fluminense;Arena Pernambuco;S. Lourenço da Mata
+36;23/nov;Dom;17:00;Cruzeiro;2;x;1;Goiás;Mineirão;Belo Horizonte
+36;23/nov;Dom;17:00;Figueirense;2;x;0;Vitória;Orlando Scarpelli;Florianópolis
+36;23/nov;Dom;19:30;Corinthians;1;x;0;Grêmio;Arena Corinthians;São Paulo
+36;23/nov;Dom;19:30;Coritiba;2;x;0;Palmeiras;Couto Pereira;Curitiba
+36;23/nov;Dom;19:30;Chapecoense;2;x;0;Botafogo;Arena Condá;Chapecó
+37;29/nov;Sáb;19:30;Internacional;;x;;Palmeiras;Beira Rio;Porto Alegre
+37;29/nov;Sáb;19:30;Criciúma;;x;;Sport;Heriberto Hülse;Criciúma
+37;29/nov;Sáb;21:00;Flamengo;;x;;Vitória;Arena da Amazônia;Manaus
+37;30/nov;Dom;17:00;São Paulo;;x;;Figueirense;Morumbi;São Paulo
+37;30/nov;Dom;17:00;Santos;;x;;Botafogo;Vila Belmiro;Santos
+37;30/nov;Dom;17:00;Chapecoense;;x;;Cruzeiro;Arena Condá;Chapecó
+37;30/nov;Dom;17:00;Fluminense;;x;;Corinthians;Maracanã;Rio de Janeiro
+37;30/nov;Dom;19:30;Atlético-PR;;x;;Goiás;Arena da Baixada;Curitiba
+37;30/nov;Dom;19:30;Bahia;;x;;Grêmio;Fonte Nova;Salvador
+37;30/nov;Dom;19:30;Atlético-MG;;x;;Coritiba;Independência;Belo Horizonte
+38;07/dez;Dom;17:00;Vitória;;x;;Santos;Barradão;Salvador
+38;07/dez;Dom;17:00;Figueirense;;x;;Internacional;Arena Condá;Chapecó
+38;07/dez;Dom;17:00;Coritiba;;x;;Bahia;Couto Pereira;Curitiba
+38;07/dez;Dom;17:00;Botafogo;;x;;Atlético-MG;Mané Garrincha;Brasília
+38;07/dez;Dom;17:00;Palmeiras;;x;;Atlético-PR;Allianz Parque;Sao Paulo
+38;07/dez;Dom;17:00;Goiás;;x;;Chapecoense;Serra Dourada;Goiânia
+38;07/dez;Dom;17:00;Sport;;x;;São Paulo;Arena Pernambuco;S. Lourenço da Mata
+38;07/dez;Dom;17:00;Cruzeiro;;x;;Fluminense;Mineirão;Belo Horizonte
+38;07/dez;Dom;17:00;Grêmio;;x;;Flamengo;Arena do Grêmio;Porto Alegre
+38;07/dez;Dom;17:00;Corinthians;;x;;Criciúma;Arena Corinthians;São Paulo

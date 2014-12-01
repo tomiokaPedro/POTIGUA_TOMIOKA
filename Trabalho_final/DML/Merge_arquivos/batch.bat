@@ -1,0 +1,1 @@
+copy /b 1_insert_estado.sql+2_insert_cidade.sql+3_insert_equipe.sql+4_insert_estadio.sql+5_insert_jogadores.sql+6_insert_turnos.sql+7_insert_jogos.sql+9_Insere_gols.sql DML.sql
