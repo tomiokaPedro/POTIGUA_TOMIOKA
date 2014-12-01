@@ -1,25 +1,22 @@
-declare
-v_cod_min NUMBER;
-v_cod_max NUMBER;
-v_cod_sorteado NUMBER;
-
-begin
-  
-  select min (cod_jogador) into v_cod_min from jogador;
-  select max (cod_jogador) into v_cod_max from jogador;
-
-  for i in 1..50
-  loop
-    select TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max)) into v_cod_sorteado from dual;
-      SP_INSERE_CARTAO (v_cod_sorteado, 'amarelo');
-    
-  end loop;
-  
-  for i in 1..10
-  loop
-    select TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max)) into v_cod_sorteado from dual;
-      SP_INSERE_CARTAO (v_cod_sorteado, 'vermelho');
-    
-  end loop;
-
-end;
+DECLARE
+  v_cod_min      NUMBER;
+  v_cod_max      NUMBER;
+  v_cod_sorteado NUMBER;
+BEGIN
+    SELECT MIN (cod_jogador) INTO v_cod_min FROM jogador;
+    SELECT MAX (cod_jogador) INTO v_cod_max FROM jogador;
+  FOR i IN 1..50
+  LOOP
+      SELECT  TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max))
+            INTO v_cod_sorteado
+            FROM dual;
+    SP_INSERE_CARTAO (v_cod_sorteado, 'amarelo');
+  END LOOP;
+  FOR i IN 1..10
+  LOOP
+      SELECT  TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max))
+            INTO v_cod_sorteado
+            FROM dual;
+    SP_INSERE_CARTAO (v_cod_sorteado, 'vermelho');
+  END LOOP;
+END;
