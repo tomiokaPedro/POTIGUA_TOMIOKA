@@ -69,7 +69,6 @@ BEGIN
 						SELECT dbms_random.value(1,10) INTO v_flag FROM DUAL;
 					IF v_flag       > 5 THEN
 						v_cod_jogador := c_jogador.cod_jogador;
-						dbms_output.put_line('achei o jogador em mandante: '|| p_nome_mandante|| ' Jogador: '|| c_jogador.nome_jogador);
 						EXIT;
 					END IF;
 				END LOOP;
@@ -102,7 +101,6 @@ BEGIN
 						SELECT dbms_random.value(1,10) INTO v_flag FROM DUAL;
 					IF v_flag       > 5 THEN
 						v_cod_jogador := c_jogador.cod_jogador;
-						dbms_output.put_line('achei o jogador em visitante: '|| p_nome_visitante|| ' Jogador: '|| c_jogador.nome_jogador);
 						EXIT;
 					END IF;
 				END LOOP;

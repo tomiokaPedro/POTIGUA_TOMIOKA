@@ -10,13 +10,13 @@ BEGIN
       SELECT  TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max))
             INTO v_cod_sorteado
             FROM dual;
-    SP_INSERE_CARTAO (v_cod_sorteado, 'amarelo');
+    PKG_JOGO.SP_INSERE_CARTAO (v_cod_sorteado, 'amarelo');
   END LOOP;
   FOR i IN 1..10
   LOOP
       SELECT  TRUNC(DBMS_RANDOM.VALUE(v_cod_min,v_cod_max))
             INTO v_cod_sorteado
             FROM dual;
-    SP_INSERE_CARTAO (v_cod_sorteado, 'vermelho');
+    PKG_JOGO.SP_INSERE_CARTAO (v_cod_sorteado, 'vermelho');
   END LOOP;
 END;
